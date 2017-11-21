@@ -1,0 +1,80 @@
+CN3101 53
+[[Lecture, EB.1.07], [Practicals, ITC09], [Practicals, ITC02]]
+CN3105 48
+[[Lecture, WB.2.03], [Practicals, ITC07], [Practicals, ITC14]]
+CN3106 53
+[[Lecture, WB.2.05], [Practicals, ITC014], [Practicals, KD.2.15]]
+CN3104 49
+[[Lecture, EB.1.07], [Practicals, ITC08], [Practicals, KD.2.28]]
+CN4101 96
+[[Lecture, MLT], [Practicals, KD.2.15], [Practicals, ITC1-ITC5], [Practicals, ITC11], [Practicals, ITC08], [Practicals, ITC01-ITC05], [Practicals, ITC1-ITC5]]
+CN4102 91
+[[Lecture, EB.2.43], [Practicals, ITC03], [Practicals, ITC04], [Practicals, ITC03], [Practicals, ITC05], [Practicals, ITC1-ITC5], [Practicals, ITC03]]
+CN4104 95
+[[Lecture, WB.G.02], [Practicals, KD.2.14], [Practicals, KD.2.15], [Practicals, KD.2.14], [Practicals, KD.2.15], [Practicals, KD.2.14], [Practicals, KD.2.15]]
+CN4106 96
+[[Lecture, MLT], [Practicals, KD.2.14], [Practicals, KD.2.28], [Practicals, ITC03], [Practicals, KD.2.28], [Practicals, ITC1-ITC5], [Practicals, KD.2.28]]
+CN4107 108
+[[Lecture, EB.2.44], [Tutorial, EB.G.10], [Tutorial, EB1.105]]
+CN5101 69
+[[Lecture, WB.G.02], [Practicals, ITC11], [Practicals, ITC12], [Practicals, ITC 11], [Practicals, ITC12]]
+CN5109 70
+[[Lecture, No room assigned], [Practicals, No room assigned]]
+CN5110 48
+[[Lecture, EB.1.04], [Practicals, KD.2.15], [Practicals, KD.2.15]]
+CN5122 79
+[[Lecture, EB.3.16], [Practicals, KD.2.14], [Practicals, KD.2.15], [Practicals, KD.2.28]]
+CN5103 53
+[[Lecture, EB.G.10], [Practicals, KD.2.15], [Practicals, KD.2.14]]
+CN5120 46
+[[Lecture, WB.3.02], [Practicals, KD.2.14], [Practicals, KD.2.28], [Practicals, ITC1-ITC5]]
+CN5108 78
+[[Lecture, No room assigned], [Practicals, No room assigned]]
+CN5104 132
+[[Lecture, NB.2.05], [Practicals, EBG.08 ], [Practicals, DL.3.06], [Practicals, EB1.44]]
+CN5121 47
+[[Lecture, EB.1.04], [Practicals, ITC05], [Practicals, ITC06]]
+CN5209 24
+[[Lecture, WB.2.05], [Practical, KD.2.15]]
+CN5210 46
+[[Lecture, EB.1.04], [Practical, KD.2.14], [Practical, KD.2.15]]
+CN6103 97
+[[Lecture, EB.2.44]]
+CN6106 25
+[[Lecture, EB.1.01], [Practicals, KD.2.15]]
+CN6107 122
+[[Lecture, MLT], [Practicals, KD.2.28], [Practicals, KD.2.14], [Practicals, KD.2.15]]
+CN6111 27
+[[Lecture, EB.288], [Practicals, KD.2.28], [Practicals, ITC05]]
+CN6112 51
+[[Lecture, EB.2.46], [Practicals, ITC08], [Practicals, ITC11], [Practicals, ITC12]]
+CN6120 44
+[[Lecture, EB.1.44], [Practicals, ITC02], [Practicals, ITC06]]
+CN6113 36
+[[Lecture, EB.G.06], [Practicals, ITC02], [Practicals, ITC06], [Practicals, ITC01]]
+CN6204 46
+[[Lecture, EB.3.19], [Practicals, KD.2.14], [Practicals, KD.2.28]]
+CN6211 79
+[[Lecture, EB.G.08], [Practicals, KD.2.15], [Practicals, KD.2.14], [Practicals, KD.2.15]]
+CN6108 50
+[[Lecture, EB.2.88], [Practicals, ITC02], [Practicals, KD.2.28]]
+CN6104 24
+[[Lecture, WB.3.02/EB.3.19], [Practicals, KD.2.14], [Practicals, ITC07]]
+CN6121 53
+[[Lecture, EB.2.46], [Practicals, ITC03], [Practicals, ITC05 (week1) and ITC07]]
+CN7000 18
+[[Lecture, DL.3.02]]
+CN7010 23
+[[Lecture, DL.3.05], [Tutorial, KD.2.14]]
+CN7014 25
+[[Lecture, EB..3.18], [Tutorial, EB..3.18]]
+CN7015 25
+[[Lecture, "Monday- DL3.12], [Tutorial, No room assigned]]
+CN7016 27
+[[Lecture, DL.3.04], [Tutorial, KD.2.15]]
+CD4101 19
+[[Lecture, EB.G.08], [Tutorial, KD.2.28]]
+CD4103 20
+[[Lecture , EB.G.08], [Tutorial, KD.2.28]]
+CD4104 22
+[[Lecture/tutorial, EB.G.08], [Lecture/tutorial, KD.2.28], [Lecture/tutorial, EB.G.08], [Lecture/tutorial, KD.2.28]]

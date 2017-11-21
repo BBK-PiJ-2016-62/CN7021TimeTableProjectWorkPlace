@@ -1,0 +1,3 @@
+"CS, C4B",CN5101,Database Systems,Lecture,1 & 2,Tuesday,09:00,10:00,01:00,0,75,Mufajjul Ali,ML,WB.G.02,124,,,11,11,,,,,,,,,,,,,,,,
+"CS, C4B",CN5101,Database Systems,Practicals,1 & 2,Tuesday,10:00,12:00,02:00,1,25,Mufajjul Ali,,ITC11,,,,,,,,,,,,,,,,,,,,,
+"CS, C4B,", C8X,cn5101,Database Systems,Practicals,1 & 2,Tuesday,10:00,12:00,02:00,2,25,Arish Siddiqui,,ITC12,,,,,,,,,,,,,,,,,,,,,

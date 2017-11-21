@@ -1,0 +1,222 @@
+CN3101:
+  Student No.: 53
+  The room EB.1.07 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 53 students
+CN3105:
+  Student No.: 48
+  The room WB.2.03 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 48 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN3106:
+  Student No.: 53
+  The room WB.2.05 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 53 students
+CN3104:
+  Student No.: 49
+  The room EB.1.07 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 49 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN4101:
+  Student No.: 96
+  The room MLT assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 96 students
+CN4102:
+  Student No.: 91
+  The room EB.2.43 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 91 students
+CN4104:
+  Student No.: 95
+  The room WB.G.02 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 95 students
+CN4106:
+  Student No.: 96
+  The room MLT assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 96 students
+CN4107:
+  Student No.: 108
+  The room EB.2.44 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 108 students
+CN5101:
+  Student No.: 69
+  The room WB.G.02 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 69 students
+CN5109:
+  Student No.: 70
+  The room No room assigned assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 70 students
+CN5110:
+  Student No.: 48
+  The room EB.1.04 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 48 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN5122:
+  Student No.: 79
+  The room EB.3.16 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 79 students
+CN5103:
+  Student No.: 53
+  The room EB.G.10 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 53 students
+CN5120:
+  Student No.: 46
+  The room WB.3.02 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 46 students
+CN5108:
+  Student No.: 78
+  The room No room assigned assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 78 students
+CN5104:
+  Student No.: 132
+  The room NB.2.05 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 132 students
+CN5121:
+  Student No.: 47
+  The room EB.1.04 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 47 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN5209:
+  Student No.: 24
+  The room WB.2.05 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 24 students
+Number of tutorial/Practical group (1) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN5210:
+  Student No.: 46
+  The room EB.1.04 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 46 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN6103:
+  Student No.: 97
+  The room EB.2.44 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 97 students
+  This module does not has tutorial/practical or lecture and tutorial/practical are combined.
+CN6106:
+  Student No.: 25
+  The room EB.1.01 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 25 students
+Number of tutorial/Practical group (1) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN6107:
+  Student No.: 122
+  The room MLT assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 122 students
+CN6111:
+  Student No.: 27
+  The room EB.288 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 27 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN6112:
+  Student No.: 51
+  The room EB.2.46 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 51 students
+Number of tutorial/Practical group (3) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN6120:
+  Student No.: 44
+  The room EB.1.44 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 44 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN6113:
+  Student No.: 36
+  The room EB.G.06 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 36 students
+CN6204:
+  Student No.: 46
+  The room EB.3.19 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 46 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN6211:
+  Student No.: 79
+  The room EB.G.08 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 79 students
+CN6108:
+  Student No.: 50
+  The room EB.2.88 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 50 students
+Number of tutorial/Practical group (2) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN6104:
+  Student No.: 24
+  The room WB.3.02/EB.3.19 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 24 students
+CN6121:
+  Student No.: 53
+  The room EB.2.46 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 53 students
+CN7000:
+  Student No.: 18
+  The room DL.3.02 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 18 students
+  This module does not has tutorial/practical or lecture and tutorial/practical are combined.
+CN7010:
+  Student No.: 23
+  The room DL.3.05 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 23 students
+Number of tutorial/Practical group (1) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN7014:
+  Student No.: 25
+  The room EB..3.18 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 25 students
+Number of tutorial/Practical group (1) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN7015:
+  Student No.: 25
+  The room "Monday- DL3.12 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 25 students
+Number of tutorial/Practical group (1) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CN7016:
+  Student No.: 27
+  The room DL.3.04 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 27 students
+CD4101:
+  Student No.: 19
+  The room EB.G.08 assigned to this module for Lecture can acommodate 0 students.
+  The room can accommodate the 19 students
+Number of tutorial/Practical group (1) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CD4103:
+  Student No.: 20
+  The room EB.G.08 assigned to this module for Lecture  can acommodate 0 students.
+  The room can accommodate the 20 students
+Number of tutorial/Practical group (1) set is adequate.
+The rooms allocated to the tutorials/practicals are:
+  Some small rooms should be replaced by larger ones.
+CD4104:
+  Student No.: 22
+  The room EB.G.08 assigned to this module for Lecture/tutorial can acommodate 0 students.
+  The room can accommodate the 22 students
+  The room KD.2.28 assigned to this module for Lecture/tutorial can acommodate 0 students.
+  The room can accommodate the 22 students
+  The room EB.G.08 assigned to this module for Lecture/tutorial can acommodate 0 students.
+  The room can accommodate the 22 students
+  The room KD.2.28 assigned to this module for Lecture/tutorial can acommodate 0 students.
+  The room can accommodate the 22 students
+  This module does not has tutorial/practical or lecture and tutorial/practical are combined.
+
+Process finished with exit code 0
