@@ -5,6 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.Iterator;
 
 /**
@@ -62,7 +63,8 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                                 }
                             }*/
 
-                        if (itr1.trim().toLowerCase().contains(rs.get(0).trim().toLowerCase())/*.equals(as.get(1).trim().toLowerCase())*/) {
+                        if (itr1.trim().replace(".","").toLowerCase().
+                                contains(rs.get(0).trim().replace(".","").toLowerCase())) {
 
                             roomSize = Integer.parseInt(rs.get(1).trim());
                             System.out.printf("  The room %s assigned to this module for %s can acommodate %d students.\n",
@@ -86,40 +88,77 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                 System.out.printf("  Number of tutorial/Practical group(s) (%d) set is adequate.", count);
                 System.out.println();
                 System.out.println("  The room(s) allocated to the tutorials/practicals are/is:");
-                int totalNumRoomsCanAccomm = 0;
+                //int totalNumRoomsCanAccomm = 0;
+                ArrayList<ArrayList<Integer>> studentNumArray = new ArrayList<>();
                 //boolean foundRm = false;
                 abcde:
-                for(int i=0; i<m.getTypeOfMeetingNRmNumList().size();i++){
-                //for (ArrayList<String> as : m.getTypeOfMeetingNRmNumList()) {
+                for (int i = 0; i < m.getTypeOfMeetingNRmNumList().size(); i++) {
+                    //for (ArrayList<String> as : m.getTypeOfMeetingNRmNumList()) {
+                    studentNumArray.add(new ArrayList<Integer>());
                     if (!m.getTypeOfMeetingNRmNumList().get(i).get(0).trim().toLowerCase().contains("lecture") &&
                             (m.getTypeOfMeetingNRmNumList().get(i).get(0).trim().toLowerCase().contains("tutorial") ||
                                     m.getTypeOfMeetingNRmNumList().get(i).get(0).trim().toLowerCase().contains("practical"))) {
+                        System.out.println("  Group " + i + ":");
                         boolean foundRm = false;
-                        for (ArrayList<String> rs : roomSizeList) {
-                            if (m.getTypeOfMeetingNRmNumList().get(i).get(1).equals(rs.get(0))) {
-                                System.out.printf(
-                                        "  Room %s: Size: %s person. Therefore, maximum tutorial group size in this room: %d",
-                                        rs.get(0), rs.get(1), Math.min(25, Integer.parseInt(rs.get(1))));
-                                System.out.println();
-                                totalNumRoomsCanAccomm = totalNumRoomsCanAccomm + Math.min(25, Integer.parseInt(rs.get(1)));
-                                foundRm = true;
+                        ArrayList<String> tutOrPraRmsPerGroup = new ArrayList<String>
+                                (Arrays.asList(m.getTypeOfMeetingNRmNumList().get(i).get(1).split("/")));
+                        Iterator<String> itr = tutOrPraRmsPerGroup.iterator();
+                        while (itr.hasNext()) {
+                            String itr1 = itr.next();
+                            for (ArrayList<String> rs : roomSizeList) {
+                                if (itr1.replace(".","").toLowerCase().
+                                        equals(rs.get(0).replace(".","").toLowerCase())) {
+                                    System.out.printf(
+                                            "  Room %s: Size: %s person. Therefore, maximum tutorial " +
+                                                    "group size in this room: %d",
+                                            rs.get(0), rs.get(1), Math.min(25, Integer.parseInt(rs.get(1))));
+                                    System.out.println();
+                                    studentNumArray.get(i).add(Math.min(25, Integer.parseInt(rs.get(1))));
+                                    foundRm = true;
+                                }
+                                /*if (foundRm == false) {
+                                    System.out.printf("  Room number %s is not in the room list, analysis for this module" +
+                                            " cannot proceed further.\n", itr1);
+                                    break abcde;
+                                }
+                                foundRm = false;*/
                             }
+                            if (foundRm == false) {
+                                System.out.printf("  Room number %s is not in the room list, analysis for this module" +
+                                        " cannot proceed further.\n", itr1);
+                                break abcde;
+                            }
+                            foundRm = false;
                         }
-                        if (foundRm == false) {
-                            System.out.printf("  Room number %s is not in the room list, analysis for this module" +
-                                    " cannot proceed further.\n", m.getTypeOfMeetingNRmNumList().get(i).get(1));
-                            break abcde;
+                        boolean groupAssignedMoreThanOneRoom = false;
+                        if (!m.getTypeOfMeetingNRmNumList().get(i).get(0).trim().toLowerCase().contains("lecture") &&
+                                i == m.getTypeOfMeetingNRmNumList().size() - 1) {
+                            int roomMinTotStudentNum = 0;
+                            for (ArrayList<Integer> studentNumArray1 : studentNumArray) {
+                                if (studentNumArray1.size() != 0) {
+                                    roomMinTotStudentNum = roomMinTotStudentNum+Collections.min(studentNumArray1);
+                                }
+                                if (studentNumArray1.size() > 1) groupAssignedMoreThanOneRoom = true;
+                            }
+                            if (m.getStudentNum() > roomMinTotStudentNum) {
+                                //temp, below line for checking 1711250934
+                                System.out.println(m.getStudentNum()+" "+roomMinTotStudentNum);
+                                if (count > 1 && groupAssignedMoreThanOneRoom == true) {
+                                    System.out.printf("  Note: As there are more than one group and there are more than " +
+                                            "one room assigned to a group and it is in existence of the sum " +
+                                            "of permitted student numbers calculated from selecting one room each" +
+                                            " from the groups which is less than the total number of students of the module" +
+                                            " (%d), please check carefully and rectify if necessary.\n", roomMinTotStudentNum);
+                                } else
+                                    System.out.printf("  There are/is tutorial/practical group(s) which can only " +
+                                            "accommodate %d students. Larger room(s) should be found to replace the " +
+                                            "smaller one(s).\n", roomMinTotStudentNum);
+                            } else System.out.println("  The size of the room(s) allocated to the " +
+                                    "tutorial/practical group(s) is also sufficient.");
                         }
                     }
-                    if(!m.getTypeOfMeetingNRmNumList().get(i).get(0).trim().toLowerCase().contains("lecture")&&
-                            i==m.getTypeOfMeetingNRmNumList().size()-1) {
-                        if (m.getStudentNum() > totalNumRoomsCanAccomm) {
-                            System.out.println("  Larger room(s) should be found to replace the small one(s).");
-                        } else System.out.println("  The size of the room(s) allocated to the " +
-                                "tutorial/practical group(s) is also sufficient.");
-                    }
-                }
 
+                }
             }
             //else System.out.printf("  Tutorial/Practical groups set (%s) are either too many or not sufficient. " +
               //          "please use Task 3 to find out the details.\n", count);
@@ -127,7 +166,8 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                 int additionalGroupNum = (int) Math.ceil(m.getStudentNum() / 25d) - count;
                 System.out.printf("  As there are %d students and there are/is only %d tutorial/practical group(s), " +
                                 "%d tutorial/practical group(s) need to be added.\n" +
-                                "  (Caveat: classroom size should be taken into consideration after adding tutorial/practical group(s))",
+                                "  (Caveat: classroom size should be taken into consideration after adding " +
+                                "tutorial/practical group(s))",
                         m.getStudentNum(), count, additionalGroupNum);
                 System.out.println();
             }

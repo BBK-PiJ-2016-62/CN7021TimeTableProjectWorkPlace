@@ -1,4 +1,4 @@
-package currentWorkingDen171124;
+package currentWorkingDen171127;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -63,7 +63,8 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                                 }
                             }*/
 
-                        if (itr1.trim().toLowerCase().contains(rs.get(0).trim().toLowerCase())/*.equals(as.get(1).trim().toLowerCase())*/) {
+                        if (itr1.trim().replace(".","").toLowerCase().
+                                contains(rs.get(0).trim().replace(".","").toLowerCase())) {
 
                             roomSize = Integer.parseInt(rs.get(1).trim());
                             System.out.printf("  The room %s assigned to this module for %s can acommodate %d students.\n",
@@ -105,14 +106,22 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                         while (itr.hasNext()) {
                             String itr1 = itr.next();
                             for (ArrayList<String> rs : roomSizeList) {
-                                if (itr1.equals(rs.get(0))) {
+                                if (itr1.replace(".","").toLowerCase().
+                                        equals(rs.get(0).replace(".","").toLowerCase())) {
                                     System.out.printf(
-                                            "  Room %s: Size: %s person. Therefore, maximum tutorial group size in this room: %d",
+                                            "  Room %s: Size: %s person. Therefore, maximum tutorial " +
+                                                    "group size in this room: %d",
                                             rs.get(0), rs.get(1), Math.min(25, Integer.parseInt(rs.get(1))));
                                     System.out.println();
                                     studentNumArray.get(i).add(Math.min(25, Integer.parseInt(rs.get(1))));
                                     foundRm = true;
                                 }
+                                /*if (foundRm == false) {
+                                    System.out.printf("  Room number %s is not in the room list, analysis for this module" +
+                                            " cannot proceed further.\n", itr1);
+                                    break abcde;
+                                }
+                                foundRm = false;*/
                             }
                             if (foundRm == false) {
                                 System.out.printf("  Room number %s is not in the room list, analysis for this module" +
@@ -127,19 +136,23 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                             int roomMinTotStudentNum = 0;
                             for (ArrayList<Integer> studentNumArray1 : studentNumArray) {
                                 if (studentNumArray1.size() != 0) {
-                                    roomMinTotStudentNum = Collections.min(studentNumArray1);
+                                    roomMinTotStudentNum = roomMinTotStudentNum+Collections.min(studentNumArray1);
                                 }
                                 if (studentNumArray1.size() > 1) groupAssignedMoreThanOneRoom = true;
                             }
                             if (m.getStudentNum() > roomMinTotStudentNum) {
+                                //temp, below line for checking 1711250934
+                                System.out.println(m.getStudentNum()+" "+roomMinTotStudentNum);
                                 if (count > 1 && groupAssignedMoreThanOneRoom == true) {
-                                    System.out.println("  Note: As there are more than one group and there are more than " +
+                                    System.out.printf("  Note: As there are more than one group and there are more than " +
                                             "one room assigned to a group and it is in existence of the sum " +
-                                            "of permitted student numbers calculated from rooms randomly selected one each" +
-                                            " from the groups less than the total number of students of the module," +
-                                            " please checkcarefully and rectify if necessary.");
+                                            "of permitted student numbers calculated from selecting one room each" +
+                                            " from the groups which is less than the total number of students of the module" +
+                                            " (%d), please check carefully and rectify if necessary.\n", roomMinTotStudentNum);
                                 } else
-                                    System.out.println("  Larger room(s) should be found to replace the small one(s).");
+                                    System.out.printf("  There are/is tutorial/practical group(s) which can only " +
+                                            "accommodate %d students. Larger room(s) should be found to replace the " +
+                                            "smaller one(s).\n", roomMinTotStudentNum);
                             } else System.out.println("  The size of the room(s) allocated to the " +
                                     "tutorial/practical group(s) is also sufficient.");
                         }
