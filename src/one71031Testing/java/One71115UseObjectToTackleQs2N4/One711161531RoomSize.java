@@ -1,4 +1,4 @@
-package one71031Testing.java.One71115UseObjectToTackleQs2N4;
+package One71115UseObjectToTackleQs2N4;
 
 import java.io.IOException;
 import java.nio.file.Files;

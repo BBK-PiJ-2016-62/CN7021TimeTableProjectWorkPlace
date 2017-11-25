@@ -1,6 +1,6 @@
-package one71031Testing.java.interimProducts.One711101737PreliminaryProuctForTasksOneAndThree;
+package interimProducts.One711101737PreliminaryProuctForTasksOneAndThree;
 
-import interimProducts.One711021940PreliminaryProuctForTaskOne.One711011524Regex;
+import interimProducts.One711101737PreliminaryProuctForTasksOneAndThree.One711011524Regex;
 
 import java.io.IOException;
 import java.nio.file.Files;

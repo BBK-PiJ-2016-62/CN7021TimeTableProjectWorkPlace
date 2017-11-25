@@ -1,6 +1,6 @@
-package one71031Testing.java.interimProducts.One711191844AllFour.One711191844AllFourA;
+package interimProducts.One711191844AllFour.One711191844AllFourA;
 
-import interimProducts.One711191844AllFour.One711011524Regex;
+import interimProducts.One711191844AllFour.One711191844AllFourA.One711011524Regex;
 
 import java.io.IOException;
 import java.nio.file.Files;

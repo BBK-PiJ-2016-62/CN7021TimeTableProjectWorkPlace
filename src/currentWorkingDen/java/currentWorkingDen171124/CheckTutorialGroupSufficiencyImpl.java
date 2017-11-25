@@ -1,15 +1,16 @@
-package interimProducts.One711191844AllFour.One711191844AllFourA;
+package currentWorkingDen171124;
 
 import java.util.ArrayList;
 
 /**
  * Created by Eric's laptop on 16/11/2017.
  */
-public class One711161252TutorialGroupSufficient {
+public class CheckTutorialGroupSufficiencyImpl implements CheckTutorialGroupSufficiency {
 
-    static void checkTutorialGroupSufficiency(ArrayList<One711141445TutorialGroupRoomSizeRoot.ModuleCode> moduleCodes) {
+    @Override
+    public void checkTutorialGroupSufficiency(ArrayList<ModuleImpl> moduleCodes) {
 
-        for (One711141445TutorialGroupRoomSizeRoot.ModuleCode m : moduleCodes) {
+        for (ModuleImpl m : moduleCodes) {
             int count = 0;
             for (ArrayList<String> as : m.getTypeOfMeetingNRmNumList()) {
                 if (as.get(0).trim().toLowerCase().contains("tutorial") ||
@@ -47,36 +48,3 @@ public class One711161252TutorialGroupSufficient {
         }
     }
 }
-
-    /*arrayLists.forEach(a->{picking(a, moduleCodeAndStudentNum.get(0));});
-    int numberOfStudents = Integer.parseInt(moduleCodeAndStudentNum.get(1));
-        if (count==0) System.out.println("%s: This module does not has tutorial/practical.");
-        else if (numberOfStudents> 25 * count){
-        int additionalGroupNum = (int)Math.ceil(numberOfStudents/25d)-count;
-        System.out.printf("%s: Tutorial/practical group number: %d. Number of students: %d. " +
-                        "Therefore, tutorial/practical group(s) may need to be increased by %d.",
-                moduleCodeAndStudentNum.get(0), count, numberOfStudents, additionalGroupNum);
-    }else if (numberOfStudents<=25*count && numberOfStudents>25*(count-1)) {
-        System.out.printf("%s: Tutorial/Practical group number: %d. It commensurates number of students: %d.",
-                moduleCodeAndStudentNum.get(0), count, numberOfStudents);
-    }else {
-        int reducingGroupNum=count -(int)Math.ceil(numberOfStudents/25d);
-        System.out.printf("%s: Tutorial/practical group number: %d. Number of students: %d. " +
-                        "Therefore, tutorial/practical group(s) may be reduced by %d.",
-                moduleCodeAndStudentNum.get(0), count, numberOfStudents, reducingGroupNum);
-
-    }
-
-}
-    //moduleCodeAndStudentNum.get(0), count, numberOfStudents);
-
-    //System.out.println("Tutorial".contains("T"));
-
-
-    static void picking(ArrayList<String> a, String s){
-
-        String ss = moduleCodeAndStudentNum.get(0);
-        if(a.get(0).contains(ss))
-            if (a.get(1).contains("Tutorial")||a.get(1).contains("Practical")) count++;
-    }*/
-

@@ -1,11 +1,5 @@
-package interimProducts.One711121417PreliminaryProuctForTasksOneAndThreeMonFriEtc;
+package currentWorkingDen171124;
 
-import interimProducts.One711121417PreliminaryProuctForTasksOneAndThreeMonFriEtc.One711011524Regex;
-
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -13,43 +7,30 @@ import java.util.Collections;
 /**
  * Created by Eric's laptop on 31/10/2017.
  */
-public class One710311918ImportAsArrayListArrayList {
+public class TeachingOverlapAndHoursImpl implements TeachingOverlapAndHours {
 
-    public static void main(String[] args) {
-        ArrayList<ArrayList<String>> firstList = new ArrayList<>();
-        ArrayList<ArrayList<String>> secondList = new ArrayList<>();
-
-        Path path = Paths.get("one711121412textSampleWithDataAlteredForLearning.txt"/*timetableExampleCSAndITimetableCSVTEXT.txt"*/);
-        try {
-            Files.lines(path).forEach(s ->/*firstList.add(s));*/firstList.add(new ArrayList<>(Arrays.asList(s.split(",")))));
-            for (ArrayList<String> tempArrayList : firstList) {
-                //ArrayList<String> tempArrayList = new ArrayList<>(Arrays.asList(s.split(",")));
-                //if (tempArrayList.size()<14 ||tempArrayList.get(11).isEmpty())
-                if (tempArrayList.size() >= 7) {
-                    One711011524Regex.combinTheFirstFewItems(tempArrayList);
-                }
+    @Override
+    public void teachingOverlapAndHours(ArrayList<ArrayList<String>> firstList){
+                ArrayList<ArrayList<String>> secondList = new ArrayList<>();
                 ArrayList<String> tempArrayList1 = new ArrayList<>();
-                //System.out.println(tempArrayList.get(0));
-                if (tempArrayList.size() >= 7) {
-                    if (tempArrayList.get(0).length() != 0) {
-                        if (tempArrayList.get(6).length() != 0) {
-                            if (tempArrayList.get(11).length() != 0) {
+                for (ArrayList<String> tempArrayList : firstList) {
+                    if (tempArrayList.size() >= 7) {
+                        if (tempArrayList.get(0).length() != 0) {
+                            if (tempArrayList.get(6).length() != 0) {
+                                if (tempArrayList.get(11).length() != 0) {
 
-                                if (tempArrayList.size() >= 14)
-                                    tempArrayList1 = new ArrayList<String>(tempArrayList.subList(0, 14));
-                                if (tempArrayList.size() == 13)
-                                    tempArrayList1 = new ArrayList<String>(tempArrayList.subList(0, 13));
-                                if (tempArrayList.size() == 12)
-                                    tempArrayList1 = new ArrayList<String>(tempArrayList.subList(0, 12));
-                                secondList.add(tempArrayList1);
+                                    if (tempArrayList.size() >= 14)
+                                        tempArrayList1 = new ArrayList<String>(tempArrayList.subList(0, 14));
+                                    if (tempArrayList.size() == 13)
+                                        tempArrayList1 = new ArrayList<String>(tempArrayList.subList(0, 13));
+                                    if (tempArrayList.size() == 12)
+                                        tempArrayList1 = new ArrayList<String>(tempArrayList.subList(0, 12));
+                                    secondList.add(tempArrayList1);
+                                }
                             }
                         }
                     }
                 }
-            }
-        } catch (IOException e) {
-            System.out.println(e);
-        }
         ArrayList<ArrayList<String>> thirdList = new ArrayList<>();
         for (ArrayList<String> s : secondList) {
             //for(int i=0; i<secondList.size();i++)
@@ -69,13 +50,6 @@ public class One710311918ImportAsArrayListArrayList {
 
         ArrayList<ArrayList<String>> forthList = new ArrayList<>();
         for (ArrayList<String> s : thirdList) {
-            //for(int i=0; i<secondList.size();i++)
-            //System.out.println(s);
-            /*if (s.get(4).matches("[&0-9]+")){
-                for(ArrayList<String> arrayList: splitArrayLists(s,4))
-                    thirdList.add(arrayList);
-            }
-            else*/
             if (s.get(4).matches("[&0-9\\s]+")) {
                 for (ArrayList<String> arrayList : splitArrayLists(s, 4))
                     forthList.add(arrayList);
@@ -89,12 +63,12 @@ public class One710311918ImportAsArrayListArrayList {
                     fifthList.add(arrayList);
             } else {/*System.out.println(s);*/fifthList.add(s);}
         }
-        Collections.sort(fifthList, new CompareFifthList());
-        for (ArrayList<String> s : fifthList) {
-            System.out.println(s);
-        }
+        Collections.sort(fifthList, new CompareItemsInTheRowsOfTheTimetableImpl());
+        //for (ArrayList<String> s : fifthList) {
+        //    System.out.println(s);
+        //}
         System.out.println();
-        System.out.println("It seems that the following teachers have been allocated the same time for more than a lesson and their details:");
+        System.out.println("Details of teachers having been allocated the same time for more than a lesson:");
         ArrayList<ArrayList<String>> picked = pick(fifthList);
         for (ArrayList<String> pk: picked){
             String pk1=pk.toString().replace("[","").replace("]","");
@@ -109,7 +83,8 @@ public class One710311918ImportAsArrayListArrayList {
         }
     }
 
-    static ArrayList<ArrayList<String>> splitArrayLists(ArrayList<String> arrayList, int itemNo) {
+    @Override
+    public ArrayList<ArrayList<String>> splitArrayLists(ArrayList<String> arrayList, int itemNo) {
 
         ArrayList<ArrayList<String>> arrayLists = new ArrayList<>();
         //ArrayList<String> arrayList1 = new ArrayList<>();
@@ -134,13 +109,13 @@ public class One710311918ImportAsArrayListArrayList {
                 arrayList2.set(5, s);
                 arrayLists.add(arrayList2);
             }*/
-            arrayLists= One711101803LearnRegexMonToFriEtc.splittingWeekdays(arrayList);
+            arrayLists= splittingWeekdays(arrayList);
         }
         return arrayLists;
     }
 
-
-    static public ArrayList<ArrayList<String>> pick(ArrayList<ArrayList<String>> stringAArrayList) {
+    @Override
+    public ArrayList<ArrayList<String>> pick(ArrayList<ArrayList<String>> stringAArrayList) {
         ArrayList<ArrayList<String>> pickedAArrayList = new ArrayList<>();
         for (int i = 0; i < stringAArrayList.size() - 1; i++) {
             if (stringAArrayList.get(i).get(11).trim().equals(stringAArrayList.get(i + 1).get(11).trim()) &&
@@ -157,7 +132,9 @@ public class One710311918ImportAsArrayListArrayList {
         }
         return pickedAArrayList;
     }
-    static public ArrayList<ArrayList<String>> teachingTimeExceedSixHoursADay (ArrayList<ArrayList<String>> stringAArrayList){
+
+    @Override
+    public ArrayList<ArrayList<String>> teachingTimeExceedSixHoursADay (ArrayList<ArrayList<String>> stringAArrayList){
 
         ArrayList<ArrayList<String>> teachingTimeExceededList=new ArrayList<>();
         Double accumulatedTeachingTime = 0.0;
@@ -188,12 +165,92 @@ public class One710311918ImportAsArrayListArrayList {
         }
         return teachingTimeExceededList;
     }
+
+    @Override
+    public ArrayList<ArrayList<String>> splittingWeekdays(ArrayList<String> arrayList) {
+
+        ArrayList<ArrayList<String>> arrayLists = new ArrayList<>();
+
+        if (arrayList.get(5).trim().matches("[[A-Za-z]{3}/]+[A-Za-z]{3}")) {
+
+            String[] weekdays = arrayList.get(5).trim().split("/");
+            for (String s : weekdays) {
+                ArrayList<String> arrayList2 = new ArrayList<>(arrayList);
+                if (s.trim().toLowerCase().equals("mon")) {
+                    arrayList2.set(5, "Monday");
+                    arrayLists.add(arrayList2);
+                }
+                if (s.trim().toLowerCase().equals("tue")) {
+                    arrayList2.set(5, "Tuesday");
+                    arrayLists.add(arrayList2);
+                }
+                if (s.trim().toLowerCase().equals("wed")) {
+                    arrayList2.set(5, "Wednesday");
+                    arrayLists.add(arrayList2);
+                }
+                if (s.trim().toLowerCase().equals("thu")) {
+                    arrayList2.set(5, "Thursday");
+                    arrayLists.add(arrayList2);
+                }
+                if (s.trim().toLowerCase().equals("fri")) {
+                    arrayList2.set(5, "Friday");
+                    arrayLists.add(arrayList2);
+                }
+            }
+        }
+        if (arrayList.get(5).trim().matches("[a-zA-Z]{3}\\s*-\\s*[a-zA-Z]{3}")) {
+
+            String[] weekdays = arrayList.get(5).trim().split("-");
+
+            String s1 = weekdays[0].trim().toLowerCase();
+            String s2 = weekdays[1].trim().toLowerCase();
+            switch (s1) {
+                case "mon":
+                    ArrayList<String> arrayList21 = new ArrayList<>(arrayList);
+                    arrayList21.set(5, "Monday");
+                    arrayLists.add(arrayList21);
+                    if (s2.equals("mon")) break;
+                case "tue":
+                    ArrayList<String> arrayList22 = new ArrayList<>(arrayList);
+                    arrayList22.set(5, "Tuesday");
+                    arrayLists.add(arrayList22);
+                    if (s2.equals("tue")) break;
+                case "wed":
+                    ArrayList<String> arrayList23 = new ArrayList<>(arrayList);
+                    arrayList23.set(5, "Wednesday");
+                    arrayLists.add(arrayList23);
+                    if (s2.equals("wed")) break;
+                case "thu":
+                    ArrayList<String> arrayList24 = new ArrayList<>(arrayList);
+                    arrayList24.set(5, "Thursday");
+                    arrayLists.add(arrayList24);
+                    if (s2.equals("thu")) break;
+                case "fri":
+                    ArrayList<String> arrayList25 = new ArrayList<>(arrayList);
+                    arrayList25.set(5, "Friday");
+                    arrayLists.add(arrayList25);
+                    if (s2.equals("fri")) break;
+            }
+        }
+        return arrayLists;
+    }
+
 }
+class CompareItemsInTheRowsOfTheTimetableImpl implements CompareItemsInTheRowsOfTheTimetable {
 
+    @Override
+    public int compare(ArrayList<String> arrayList1, ArrayList<String> arrayList2) {
 
-/*for (String s : strings) {
-        ArrayList<String> arrayList2 = new ArrayList<>(arrayList);
-        arrayList2.set(itemNo, s);
-        arrayLists.add(arrayList2);*/
-
-
+        int result = arrayList1.get(11).trim().compareTo(arrayList2.get(11).trim());
+        if (result != 0) return result;
+        if (Integer.parseInt(arrayList1.get(4).trim()) > Integer.parseInt(arrayList2.get(4).trim())) return 1;
+        else if (Integer.parseInt(arrayList1.get(4).trim()) < Integer.parseInt(arrayList2.get(4).trim())) return -1;
+        result = arrayList1.get(5).trim().compareTo(arrayList2.get(5).trim());
+        if (result != 0) return result;
+        if (Double.parseDouble(arrayList1.get(6).trim().replace(":", "."))
+                > Double.parseDouble(arrayList2.get(6).trim().replace(":", "."))) return 1;
+        else if (Double.parseDouble(arrayList1.get(6).trim().replace(":", "."))
+                < Double.parseDouble(arrayList2.get(6).trim().replace(":", "."))) return -1;
+        return 1;
+    }
+}
