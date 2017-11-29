@@ -2,37 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344d9139-928c-47a2-a4a9-e23a607f5599" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CheckRoomSizeSufficiencyImpl.class" afterPath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CheckRoomSizeSufficiencyImpl.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CheckRoomSizeSufficiency.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CheckRoomSizeSufficiencyImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CheckTutorialGroupSufficiency.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CheckTutorialGroupSufficiencyImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CompareItemsInTheRowsOfTheTimetable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/CompareItemsInTheRowsOfTheTimetableImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/FormModuleList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/FormModuleListImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/InputAndTidyUpTimeTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/InputAndTidyUpTimeTableImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/Module.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/ModuleImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/TeachingOverlapAndHours.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/currentWorkingDen171124/TeachingOverlapAndHoursImpl.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/one711121412textSampleWithDataAlteredForLearning.txt" afterPath="$PROJECT_DIR$/one711121412textSampleWithDataAlteredForLearning.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/one711131409RoomSizeSortedCurrentWorking.txt" afterPath="$PROJECT_DIR$/one711131409RoomSizeSortedCurrentWorking.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/one711191951StudentNumSortedCurrentWorking.txt" afterPath="$PROJECT_DIR$/one711191951StudentNumSortedCurrentWorking.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckRoomSizeSufficiency.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckRoomSizeSufficiency.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckRoomSizeSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckRoomSizeSufficiencyImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckTutorialGroupSufficiency.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckTutorialGroupSufficiency.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckTutorialGroupSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/CheckTutorialGroupSufficiencyImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/FormModuleList.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/FormModuleList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/FormModuleListImpl.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/FormModuleListImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/InputAndTidyUpTimeTable.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/InputAndTidyUpTimeTable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/InputAndTidyUpTimeTableImpl.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/InputAndTidyUpTimeTableImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/Launcher.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/Launcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/Module.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/Module.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/ModuleImpl.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/ModuleImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/TeachingOverlapAndHours.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/TeachingOverlapAndHours.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/TeachingOverlapAndHoursImpl.java" afterPath="$PROJECT_DIR$/src/one71031Testing/java/interimProducts/One711242129OnlyMultipeTutorialGroupIssueLeft/java/currentWorkingDen171121/TeachingOverlapAndHoursImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/CheckRoomSizeSufficiency.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckRoomSizeSufficiency.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/CheckRoomSizeSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckRoomSizeSufficiencyImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/CheckTutorialGroupSufficiency.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckTutorialGroupSufficiency.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/CheckTutorialGroupSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckTutorialGroupSufficiencyImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/FormModuleList.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/FormModuleList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/FormModuleListImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/FormModuleListImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/InputAndTidyUpTimeTable.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/InputAndTidyUpTimeTableImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTableImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/Launcher.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/Launcher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/Module.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/Module.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/ModuleImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/ModuleImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/TeachingOverlapAndHours.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/TeachingOverlapAndHours.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171124/TeachingOverlapAndHoursImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/TeachingOverlapAndHoursImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CN7021TimeTableProjectWorkPlace.iml" afterPath="$PROJECT_DIR$/CN7021TimeTableProjectWorkPlace.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,110 +30,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CheckRoomSizeSufficiencyImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckRoomSizeSufficiencyImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-231">
-              <caret line="109" column="86" lean-forward="false" selection-start-line="109" selection-start-column="86" selection-end-line="109" selection-end-column="86" />
-              <folding>
-                <element signature="e#5541#5549#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckTutorialGroupSufficiency.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckTutorialGroupSufficiency.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Module.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/Module.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModuleImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/ModuleImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckTutorialGroupSufficiencyImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckTutorialGroupSufficiencyImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormModuleList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/FormModuleList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormModuleListImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/FormModuleListImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputAndTidyUpTimeTable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputAndTidyUpTimeTableImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTableImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="22" column="91" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="125" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -221,7 +104,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
+    <option name="x" value="4" />
     <option name="y" value="9" />
     <option name="width" value="1924" />
     <option name="height" value="1029" />
@@ -262,6 +145,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -318,6 +202,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="intermLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="one71031Testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interimProducts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="One711251101TrimDot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="one71031Testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="interimProducts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -343,14 +283,9 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="currentWorkingDen171127" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,7 +294,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="E:/intellijLearningHub171109" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
@@ -967,19 +902,21 @@
       <workItem from="1511556981734" duration="10652000" />
       <workItem from="1511572534201" duration="1643000" />
       <workItem from="1511600375362" duration="8069000" />
+      <workItem from="1511793937507" duration="4191000" />
+      <workItem from="1511969956844" duration="844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42875000" />
+    <option name="totallyTimeSpent" value="47910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="9" width="1924" height="1029" extended-state="0" />
+    <frame x="4" y="9" width="1924" height="1029" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -991,7 +928,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3306277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34036797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1003,6 +940,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1037,7 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,9 +982,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2919">
           <caret line="139" column="1" lean-forward="false" selection-start-line="139" selection-start-column="1" selection-end-line="139" selection-end-column="1" />
-          <folding>
-            <element signature="e#5541#5549#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,9 +1018,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="e#5541#5549#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,7 +1211,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1287,7 +1218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1295,7 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,23 +1232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="58" column="131" lean-forward="false" selection-start-line="58" selection-start-column="131" selection-end-line="58" selection-end-column="131" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/TeachingOverlapAndHours.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/TeachingOverlapAndHoursImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4811">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1327,7 +1239,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1335,17 +1246,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckRoomSizeSufficiencyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="109" column="86" lean-forward="false" selection-start-line="109" selection-start-column="86" selection-end-line="109" selection-end-column="86" />
-          <folding>
-            <element signature="e#5541#5549#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,15 +1253,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckTutorialGroupSufficiencyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1369,7 +1260,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1381,26 +1271,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTable.java">
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/TeachingOverlapAndHours.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="420">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTableImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/TeachingOverlapAndHoursImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="22" column="91" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="4956">
+          <caret line="238" column="6" lean-forward="false" selection-start-line="238" selection-start-column="6" selection-end-line="238" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -1417,6 +1299,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckTutorialGroupSufficiencyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="54" lean-forward="false" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/CheckRoomSizeSufficiencyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2163">
+          <caret line="109" column="86" lean-forward="false" selection-start-line="109" selection-start-column="86" selection-end-line="109" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171127/InputAndTidyUpTimeTableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>
