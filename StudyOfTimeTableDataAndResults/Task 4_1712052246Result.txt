@@ -1,0 +1,357 @@
+Task 4 result:
+
+
+Adequacy of rooms allocated to lectures, tutorials and practicals: 
+CN3101:
+  Number of students: 53
+  The room EB.1.07 assigned to this module for EB.1.07 can accommodate 46 students.
+  The room is too small for the 53 students
+  As there are 53 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN3105:
+  Number of students: 57
+  The room WB.2.03 assigned to this module for WB.2.03 can accommodate 50 students.
+  The room is too small for the 57 students
+  As there are 57 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN3106:
+  Number of students: 52
+  The room WB.2.05 assigned to this module for WB.2.05 can accommodate 47 students.
+  The room is too small for the 52 students
+  As there are 52 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN3104:
+  Number of students: 59
+  The room EB.1.07 assigned to this module for EB.1.07 can accommodate 46 students.
+  The room is too small for the 59 students
+  As there are 59 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN4101:
+  Number of students: 116
+  The room MLT assigned to this module for MLT can accommodate 131 students.
+  The room can accommodate the 116 students
+  As there are 116 students and there are/is 6 tutorial/practical group(s), 1 tutorial/practical group(s) need to be withdrawn.
+  (Caveat: classroom size should be taken into consideration upon deduction of tutorial/practical group(s))
+CN4102:
+  Number of students: 113
+  The room EB.2.43 assigned to this module for EB.2.43 can accommodate 107 students.
+  The room is too small for the 113 students
+  As there are 113 students and there are/is 6 tutorial/practical group(s), 1 tutorial/practical group(s) need to be withdrawn.
+  (Caveat: classroom size should be taken into consideration upon deduction of tutorial/practical group(s))
+CN4104:
+  Number of students: 95
+  The room WB.G.02 assigned to this module for WB.G.02 can accommodate 75 students.
+  The room is too small for the 95 students
+  As there are 95 students and there are/is 6 tutorial/practical group(s), 2 tutorial/practical group(s) need to be withdrawn.
+  (Caveat: classroom size should be taken into consideration upon deduction of tutorial/practical group(s))
+CN4106:
+  Number of students: 142
+  The room MLT assigned to this module for MLT can accommodate 131 students.
+  The room is too small for the 142 students
+  Number of tutorial/Practical group(s) (6) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.14: Size: 26 person. Therefore, maximum tutorial group size in this room: 26
+  Group 2:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Room ITC03: Size: 24 person. Therefore, maximum tutorial group size in this room: 24
+  Group 3:
+  Room ITC03: Size: 24 person. Therefore, maximum tutorial group size in this room: 24
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Room KD.2.14: Size: 26 person. Therefore, maximum tutorial group size in this room: 26
+  Group 4:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Group 5:
+  Room ITC1-ITC5: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Group 6:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Note: As there are more than one group and there are more than one room assigned to a group and it is in existence of the sum of permitted student numbers calculated from selecting one room each from the groups which is less than the total number of students of the module (140), please check carefully and rectify if necessary.
+CN4107:
+  Number of students: 110
+  The room EB.2.44 assigned to this module for EB.2.44 can accommodate 101 students.
+  The room is too small for the 110 students
+  As there are 110 students and there are/is only 2 tutorial/practical group(s), 3 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN5101:
+  Number of students: 73
+  The room WB.G.02 assigned to this module for WB.G.02 can accommodate 75 students.
+  The room can accommodate the 73 students
+  As there are 73 students and there are/is 4 tutorial/practical group(s), 1 tutorial/practical group(s) need to be withdrawn.
+  (Caveat: classroom size should be taken into consideration upon deduction of tutorial/practical group(s))
+CN5109:
+  Number of students: 74
+  Either the number of the room (No room assigned) assigned to this module for Lecture does not in the room list or no room has been assigned.
+  As there are 74 students and there are/is only 1 tutorial/practical group(s), 2 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN5122:
+  Number of students: 76
+  The room EB.3.16 assigned to this module for EB.3.16 can accommodate 77 students.
+  The room can accommodate the 76 students
+  As there are 76 students and there are/is only 3 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN5110:
+  Number of students: 54
+  The room EB.1.04 assigned to this module for EB.1.04 can accommodate 52 students.
+  The room is too small for the 54 students
+  As there are 54 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN5103:
+  Number of students: 48
+  The room EB.G.10 assigned to this module for EB.G.10 can accommodate 55 students.
+  The room can accommodate the 48 students
+  Number of tutorial/Practical group(s) (2) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.15: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Group 2:
+  Room KD.2.14: Size: 26 person. Therefore, maximum tutorial group size in this room: 26
+  The size of the room(s) allocated to the tutorial/practical group(s) is also sufficient.
+CN5120:
+  Number of students: 53
+  The room WB.3.02 assigned to this module for WB.3.02 can accommodate 45 students.
+  The room is too small for the 53 students
+  Number of tutorial/Practical group(s) (3) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.14: Size: 26 person. Therefore, maximum tutorial group size in this room: 26
+  Group 2:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Group 3:
+  Room ITC1-ITC5: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  The size of the room(s) allocated to the tutorial/practical group(s) is also sufficient.
+CN5108:
+  Number of students: 74
+  Either the number of the room (No room assigned) assigned to this module for Lecture does not in the room list or no room has been assigned.
+  As there are 74 students and there are/is only 1 tutorial/practical group(s), 2 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN5104:
+  Number of students: 134
+  The room NB.2.05 assigned to this module for NB.2.05 can accommodate 123 students.
+  The room is too small for the 134 students
+  As there are 134 students and there are/is only 3 tutorial/practical group(s), 3 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN5121:
+  Number of students: 56
+  The room EB.1.04 assigned to this module for EB.1.04 can accommodate 52 students.
+  The room is too small for the 56 students
+  As there are 56 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN5209:
+  Number of students: 25
+  The room WB.2.05 assigned to this module for WB.2.05 can accommodate 47 students.
+  The room can accommodate the 25 students
+  Number of tutorial/Practical group(s) (1) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.15: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  As room(s) assigned to the tutorial/practical group(s) can only accommodate 23 students. Larger room(s) should be found to replace the smaller one(s).
+CN5210:
+  Number of students: 53
+  The room EB.1.04 assigned to this module for EB.1.04 can accommodate 52 students.
+  The room is too small for the 53 students
+  As there are 53 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN6103:
+  Number of students: 108
+  The room EB.2.44 assigned to this module for EB.2.44 can accommodate 101 students.
+  The room is too small for the 108 students
+  This module does not has tutorial/practical or lectures and tutorials/practicals are combined.
+CN6106:
+  Number of students: 24
+  The room EB.1.01 assigned to this module for EB.1.01 can accommodate 23 students.
+  The room is too small for the 24 students
+  Number of tutorial/Practical group(s) (1) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.15: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  As room(s) assigned to the tutorial/practical group(s) can only accommodate 23 students. Larger room(s) should be found to replace the smaller one(s).
+CN6107:
+  Number of students: 131
+  The room MLT assigned to this module for MLT can accommodate 131 students.
+  The room can accommodate the 131 students
+  As there are 131 students and there are/is only 3 tutorial/practical group(s), 3 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN6111:
+  Number of students: 28
+  The room EB.2.88 assigned to this module for EB.2.88 can accommodate 45 students.
+  The room can accommodate the 28 students
+  The room EB.288 assigned to this module for EB.288 can accommodate 24 students.
+  The room is too small for the 28 students
+  Number of tutorial/Practical group(s) (2) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  Group 2:
+  Room ITC05: Size: 26 person. Therefore, maximum tutorial group size in this room: 26
+  The size of the room(s) allocated to the tutorial/practical group(s) is also sufficient.
+CN6112:
+  Number of students: 49
+  The room EB.2.46 assigned to this module for EB.2.46 can accommodate 52 students.
+  The room can accommodate the 49 students
+  As there are 49 students and there are/is 3 tutorial/practical group(s), 1 tutorial/practical group(s) need to be withdrawn.
+  (Caveat: classroom size should be taken into consideration upon deduction of tutorial/practical group(s))
+CN6120:
+  Number of students: 40
+  The room EB.1.44 assigned to this module for EB.1.44 can accommodate 40 students.
+  The room can accommodate the 40 students
+  The room EB1.44 assigned to this module for EB1.44 can accommodate 24 students.
+  The room is too small for the 40 students
+  Number of tutorial/Practical group(s) (2) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room ITC02: Size: 24 person. Therefore, maximum tutorial group size in this room: 24
+  Group 2:
+  Room ITC06: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  The size of the room(s) allocated to the tutorial/practical group(s) is also sufficient.
+CN6113:
+  Number of students: 42
+  The room EB.G.06 assigned to this module for EB.G.06 can accommodate 41 students.
+  The room is too small for the 42 students
+  As there are 42 students and there are/is 3 tutorial/practical group(s), 1 tutorial/practical group(s) need to be withdrawn.
+  (Caveat: classroom size should be taken into consideration upon deduction of tutorial/practical group(s))
+CN6204:
+  Number of students: 57
+  The room EB.3.19 assigned to this module for EB.3.19 can accommodate 55 students.
+  The room is too small for the 57 students
+  As there are 57 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN6211:
+  Number of students: 82
+  The room EB.G.08 assigned to this module for EB.G.08 can accommodate 76 students.
+  The room is too small for the 82 students
+  The room EBG.08 assigned to this module for EBG.08 can accommodate 25 students.
+  The room is too small for the 82 students
+  As there are 82 students and there are/is only 3 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN6108:
+  Number of students: 49
+  The room EB.2.88 assigned to this module for EB.2.88 can accommodate 45 students.
+  The room is too small for the 49 students
+  The room EB.288 assigned to this module for EB.288 can accommodate 24 students.
+  The room is too small for the 49 students
+  Number of tutorial/Practical group(s) (2) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room ITC02: Size: 24 person. Therefore, maximum tutorial group size in this room: 24
+  Group 2:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  As room(s) assigned to the tutorial/practical group(s) can only accommodate 47 students. Larger room(s) should be found to replace the smaller one(s).
+CN6104:
+  Number of students: 23
+  The room WB.3.02 assigned to this module for WB.3.02 can accommodate 45 students.
+  The room can accommodate the 23 students
+  The room EB.3.19 assigned to this module for EB.3.19 can accommodate 55 students.
+  The room can accommodate the 23 students
+  As there are 23 students and there are/is 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be withdrawn.
+  (Caveat: classroom size should be taken into consideration upon deduction of tutorial/practical group(s))
+CN6121:
+  Number of students: 56
+  The room EB.2.46 assigned to this module for EB.2.46 can accommodate 52 students.
+  The room is too small for the 56 students
+  As there are 56 students and there are/is only 2 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN7000:
+  Number of students: 21
+  The room DL.3.02 assigned to this module for DL.3.02 can accommodate 21 students.
+  The room can accommodate the 21 students
+  This module does not has tutorial/practical or lectures and tutorials/practicals are combined.
+CN7005:
+  Number of students: 27
+  The room WB2.06 assigned to this module for WB2.06 can accommodate 27 students.
+  The room can accommodate the 27 students
+  The room WB.2.06 assigned to this module for WB.2.06 can accommodate 27 students.
+  The room can accommodate the 27 students
+  As there are 27 students and there are/is only 1 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN7010:
+  Number of students: 27
+  The room DL.3.05 assigned to this module for DL.3.05 can accommodate 20 students.
+  The room is too small for the 27 students
+  As there are 27 students and there are/is only 1 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN7014:
+  Number of students: 25
+  The room EB..3.18 assigned to this module for EB..3.18 can accommodate 24 students.
+  The room is too small for the 25 students
+  Number of tutorial/Practical group(s) (1) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room EB..3.18: Size: 24 person. Therefore, maximum tutorial group size in this room: 24
+  As room(s) assigned to the tutorial/practical group(s) can only accommodate 24 students. Larger room(s) should be found to replace the smaller one(s).
+CN7015:
+  Number of students: 27
+  The room DL3.12 assigned to this module for DL3.12 can accommodate 27 students.
+  The room can accommodate the 27 students
+  As there are 27 students and there are/is only 1 tutorial/practical group(s), 1 tutorial/practical group(s) need to be added.
+  (Caveat: classroom size should be taken into consideration upon adding tutorial/practical group(s))
+CN7016:
+  Number of students: 24
+  The room DL.3.04 assigned to this module for DL.3.04 can accommodate 23 students.
+  The room is too small for the 24 students
+  Number of tutorial/Practical group(s) (1) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.15: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  As room(s) assigned to the tutorial/practical group(s) can only accommodate 23 students. Larger room(s) should be found to replace the smaller one(s).
+CN7019:
+  Number of students: 23
+  The room WB2.06 assigned to this module for WB2.06 can accommodate 27 students.
+  The room can accommodate the 23 students
+  The room WB.2.06 assigned to this module for WB.2.06 can accommodate 27 students.
+  The room can accommodate the 23 students
+  The room EB.1.105 assigned to this module for EB.1.105 can accommodate 20 students.
+  The room is too small for the 23 students
+  The room EB1.105 assigned to this module for EB1.105 can accommodate 25 students.
+  The room can accommodate the 23 students
+  Either the number of the room (EB.1.08) assigned to this module for Lecture does not in the room list or no room has been assigned.
+  The room DL3.03 assigned to this module for DL3.03 can accommodate 29 students.
+  The room can accommodate the 23 students
+  Number of tutorial/Practical group(s) (1) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room EB.3.12: Size: 27 person. Therefore, maximum tutorial group size in this room: 27
+  Room EB.2.45: Size: 32 person. Therefore, maximum tutorial group size in this room: 32
+  Room EB.1.105: Size: 20 person. Therefore, maximum tutorial group size in this room: 20
+  Room EB1.105: Size: 25 person. Therefore, maximum tutorial group size in this room: 25
+  Room EB.1.63: Size: 22 person. Therefore, maximum tutorial group size in this room: 22
+  Room DL3.03: Size: 29 person. Therefore, maximum tutorial group size in this room: 29
+  As room(s) assigned to the tutorial/practical group(s) can only accommodate 20 students. Larger room(s) should be found to replace the smaller one(s).
+CD4101:
+  Number of students: 18
+  The room EB.G.08 assigned to this module for EB.G.08 can accommodate 76 students.
+  The room can accommodate the 18 students
+  The room EBG.08 assigned to this module for EBG.08 can accommodate 25 students.
+  The room can accommodate the 18 students
+  Number of tutorial/Practical group(s) (1) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  The size of the room(s) allocated to the tutorial/practical group(s) is also sufficient.
+CD4103:
+  Number of students: 22
+  The room EB.G.08 assigned to this module for EB.G.08 can accommodate 76 students.
+  The room can accommodate the 22 students
+  The room EBG.08 assigned to this module for EBG.08 can accommodate 25 students.
+  The room can accommodate the 22 students
+  Number of tutorial/Practical group(s) (1) set is adequate.
+  The room(s) allocated to the tutorials/practicals are/is:
+  Group 1:
+  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
+  The size of the room(s) allocated to the tutorial/practical group(s) is also sufficient.
+CD4104:
+  Number of students: 23
+  The room EB.G.08 assigned to this module for EB.G.08 can accommodate 76 students.
+  The room can accommodate the 23 students
+  The room EBG.08 assigned to this module for EBG.08 can accommodate 25 students.
+  The room can accommodate the 23 students
+  The room KD.2.28 assigned to this module for KD.2.28 can accommodate 23 students.
+  The room can accommodate the 23 students
+  The room EB.G.08 assigned to this module for EB.G.08 can accommodate 76 students.
+  The room can accommodate the 23 students
+  The room EBG.08 assigned to this module for EBG.08 can accommodate 25 students.
+  The room can accommodate the 23 students
+  The room KD.2.28 assigned to this module for KD.2.28 can accommodate 23 students.
+  The room can accommodate the 23 students
+  This module does not has tutorial/practical or lectures and tutorials/practicals are combined.
+
+   -- This result is produced at 10:46PM,5 December, 2017

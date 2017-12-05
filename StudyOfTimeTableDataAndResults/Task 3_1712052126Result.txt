@@ -1,0 +1,88 @@
+Task 3 result:
+
+
+Whether groups set for each module need to be increased or reduced and for how many:
+CN3101: Number of students: 53. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN3105: Number of students: 57. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN3106: Number of students: 52. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN3104: Number of students: 59. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN4101: Number of students: 116. Tutorial/practical group number: 6. Therefore, 1 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+CN4102: Number of students: 113. Tutorial/practical group number: 6. Therefore, 1 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+CN4104: Number of students: 95. Tutorial/practical group number: 6. Therefore, 2 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+CN4106: Tutorial/Practical group number: 6. It commensurates number of students: 142.
+(Caveat: classroom size has not been taken into consideration.)
+CN4107: Number of students: 110. Tutorial/practical group number: 2. Therefore, 3 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN5101: Number of students: 73. Tutorial/practical group number: 4. Therefore, 1 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+CN5109: Number of students: 74. Tutorial/practical group number: 1. Therefore, 2 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN5122: Number of students: 76. Tutorial/practical group number: 3. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN5110: Number of students: 54. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN5103: Tutorial/Practical group number: 2. It commensurates number of students: 48.
+(Caveat: classroom size has not been taken into consideration.)
+CN5120: Tutorial/Practical group number: 3. It commensurates number of students: 53.
+(Caveat: classroom size has not been taken into consideration.)
+CN5108: Number of students: 74. Tutorial/practical group number: 1. Therefore, 2 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN5104: Number of students: 134. Tutorial/practical group number: 3. Therefore, 3 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN5121: Number of students: 56. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN5209: Tutorial/Practical group number: 1. It commensurates number of students: 25.
+(Caveat: classroom size has not been taken into consideration.)
+CN5210: Number of students: 53. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN6103: This module does not has tutorial/practical or lecture and tutorial/practical are combined.
+CN6106: Tutorial/Practical group number: 1. It commensurates number of students: 24.
+(Caveat: classroom size has not been taken into consideration.)
+CN6107: Number of students: 131. Tutorial/practical group number: 3. Therefore, 3 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN6111: Tutorial/Practical group number: 2. It commensurates number of students: 28.
+(Caveat: classroom size has not been taken into consideration.)
+CN6112: Number of students: 49. Tutorial/practical group number: 3. Therefore, 1 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+CN6120: Tutorial/Practical group number: 2. It commensurates number of students: 40.
+(Caveat: classroom size has not been taken into consideration.)
+CN6113: Number of students: 42. Tutorial/practical group number: 3. Therefore, 1 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+CN6204: Number of students: 57. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN6211: Number of students: 82. Tutorial/practical group number: 3. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN6108: Tutorial/Practical group number: 2. It commensurates number of students: 49.
+(Caveat: classroom size has not been taken into consideration.)
+CN6104: Number of students: 23. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+CN6121: Number of students: 56. Tutorial/practical group number: 2. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN7000: This module does not has tutorial/practical or lecture and tutorial/practical are combined.
+CN7005: Number of students: 27. Tutorial/practical group number: 1. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN7010: Number of students: 27. Tutorial/practical group number: 1. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN7014: Tutorial/Practical group number: 1. It commensurates number of students: 25.
+(Caveat: classroom size has not been taken into consideration.)
+CN7015: Number of students: 27. Tutorial/practical group number: 1. Therefore, 1 tutorial/practical group(s) need to be added.
+(Caveat: classroom size has not been taken into consideration.)
+CN7016: Tutorial/Practical group number: 1. It commensurates number of students: 24.
+(Caveat: classroom size has not been taken into consideration.)
+CN7019: Tutorial/Practical group number: 1. It commensurates number of students: 23.
+(Caveat: classroom size has not been taken into consideration.)
+CD4101: Tutorial/Practical group number: 1. It commensurates number of students: 18.
+(Caveat: classroom size has not been taken into consideration.)
+CD4103: Tutorial/Practical group number: 1. It commensurates number of students: 22.
+(Caveat: classroom size has not been taken into consideration.)
+CD4104: Number of students: 23. Tutorial/practical group number: 4. Therefore, 3 tutorial/practical group(s) need to be withdrawn.
+(Caveat: classroom size has not been taken into consideration.)
+
+   -- This result is produced at 09:26PM,5 December, 2017
