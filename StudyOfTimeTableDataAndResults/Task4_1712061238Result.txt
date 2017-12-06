@@ -1,4 +1,4 @@
-Task 4 result:
+Task4 result:
 
 
 Adequacy of rooms allocated to lectures, tutorials and practicals: 
@@ -54,18 +54,15 @@ CN4106:
   Room KD.2.14: Size: 26 person. Therefore, maximum tutorial group size in this room: 26
   Group 2:
   Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
-  Room ITC03: Size: 24 person. Therefore, maximum tutorial group size in this room: 24
   Group 3:
   Room ITC03: Size: 24 person. Therefore, maximum tutorial group size in this room: 24
-  Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
-  Room KD.2.14: Size: 26 person. Therefore, maximum tutorial group size in this room: 26
   Group 4:
   Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
   Group 5:
   Room ITC1-ITC5: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
   Group 6:
   Room KD.2.28: Size: 23 person. Therefore, maximum tutorial group size in this room: 23
-  Note: As there are more than one group and there are more than one room assigned to a group and it is in existence of the sum of permitted student numbers calculated from selecting one room each from the groups which is less than the total number of students of the module (140), please check carefully and rectify if necessary.
+  As room(s) assigned to the tutorial/practical group(s) can only accommodate 141 students. Larger room(s) should be found to replace the smaller one(s).
 CN4107:
   Number of students: 110
   The room EB.2.44 assigned to this module for EB.2.44 can accommodate 101 students.
@@ -354,4 +351,4 @@ CD4104:
   The room can accommodate the 23 students
   This module does not has tutorial/practical or lectures and tutorials/practicals are combined.
 
-   -- This result is produced at 10:46PM,5 December, 2017
+   -- This result is produced at 12:38PM, 6 December, 2017

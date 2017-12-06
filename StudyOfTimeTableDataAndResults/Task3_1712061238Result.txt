@@ -1,4 +1,4 @@
-Task 3 result:
+Task3 result:
 
 
 Whether groups set for each module need to be increased or reduced and for how many:
@@ -85,4 +85,4 @@ CD4103: Tutorial/Practical group number: 1. It commensurates number of students:
 CD4104: Number of students: 23. Tutorial/practical group number: 4. Therefore, 3 tutorial/practical group(s) need to be withdrawn.
 (Caveat: classroom size has not been taken into consideration.)
 
-   -- This result is produced at 09:26PM,5 December, 2017
+   -- This result is produced at 12:38PM, 6 December, 2017

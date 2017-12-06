@@ -1,4 +1,4 @@
-Task 2 result:
+Task2 result:
 
 Teachers who teach more than six hours a day (name, term, day and hours):
 ?, 1, Friday, 8.0
@@ -17,6 +17,7 @@ Rabih Bashroush, 1, Friday, 8.0
 Rabih Bashroush, 1, Monday, 8.0
 Rabih Bashroush, 1, Thursday, 8.0
 Rabih Bashroush, 1, Tuesday, 8.0
+Rabih Bashroush, 1, Wednesday, 8.0
 Shafiq Ur Rehman, 1, Friday, 7.0
 
-   -- This result is produced at 08:48PM,5 December, 2017
+   -- This result is produced at 12:38PM, 6 December, 2017

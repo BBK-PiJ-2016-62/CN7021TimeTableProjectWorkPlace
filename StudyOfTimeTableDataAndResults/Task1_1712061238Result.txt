@@ -11,9 +11,7 @@ MSc ISCF, CN7016, Computer Security, Tutorial, 1, Monday, 13:00, 16:00, 03:00, 1
 CN, CN6106, Network Design and Management, Practicals, 1, Monday, 14:00, 16:00, 02:00, 1, 25, Amin Karami, , KD.2.15
 "C4B, CS", cn4101, Information Systems Modelling and Design , Practicals, 2, Friday, 14:00, 16:00, 02:00, 2, 25, Helen Bear, , ITC1-ITC5
 "CS, C4B", CN5104, Computing in Practice, Practicals, 2, Friday, 15:00, 17:00, 02:00, 3, 25, Helen Bear, , EB1.44
-C4B, CN5209, Applications Development for Business , Lecture, 1, Thursday, 11:00, 13:00, 02:00, 0, 25, Mufajjul Ali, ML, WB.2.05
-SE, CN6104, Network Programming and Distributed Systems, Practicals, 1, Thursday, 11:00, 13:00, 0, 2, 25, Mufajjul Ali, , ITC07
 CS, CN5120, Advanced Programming , Lecture, 1, Tuesday, 13:00, 15:00, 02:00, 0, 50, Syed Islam, ML, WB.3.02
 SE, CN6104, Network Programming and Distributed Systems, Lecture, 1, Tuesday, 13:00, 15:00, 0, 0, 25, Syed Islam, ML, WB.3.02/EB.3.19
 
-   -- This result is produced at 08:31PM,5 December, 2017
+   -- This result is produced at 12:38PM, 6 December, 2017
