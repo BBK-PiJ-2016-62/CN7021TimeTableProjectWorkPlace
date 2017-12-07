@@ -22,23 +22,13 @@ public class FormModuleListImpl implements FormModuleList {
     public ArrayList<ModuleImpl> moduleCodes() {
 
         ArrayList<ModuleImpl> moduleCodes = new ArrayList<>();
-        ExtractModuleInformation emi=new ExtractModuleInformation();
-        ArrayList<ArrayList<String>> modStudNumList= emi.modStudNumList();
-        //ArrayList<ArrayList<String>> .modStudNumList()
-        TrimModStudNumTable ttbles = new TrimModStudNumTable();
-        InputAndTidyUpTimeTable iattt=new InputAndTidyUpTimeTableImpl();
-        ArrayList<ArrayList<String>> firstList = iattt.inputAndTidyTimeTable("timetable-example.csv");
-        ArrayList<String> modulesNotInTimeTable = ttbles.modulesNotInTimeTable(modStudNumList, firstList);
-        ArrayList<ArrayList<String>> trimModListAllInTmTable=
-                ttbles.trimModListAllInTmTable(emi.modStudNumList(), modulesNotInTimeTable);
-        trimModListAllInTmTable.forEach(s -> moduleCodes.add(formModuleCode1(s)));
-        /*try {
+        try {
             Files.lines(Paths.get("one711191951StudentNumSortedCurrentWorking.txt")).forEach(s -> moduleCodes.add(formModuleCode(s)));
 
 
         } catch (IOException e) {
             System.out.println(e);
-        }*/
+        }
         return moduleCodes;
     }
 
@@ -49,13 +39,6 @@ public class FormModuleListImpl implements FormModuleList {
         ModuleImpl moduleCode = new ModuleImpl();
         moduleCode.setCourseCode(ss[0]);
         moduleCode.setStudentNum(Integer.parseInt(ss[1]));
-        return moduleCode;
-    }
-
-    public ModuleImpl formModuleCode1(ArrayList<String> s){
-        ModuleImpl moduleCode = new ModuleImpl();
-        moduleCode.setCourseCode(s.get(0));
-        moduleCode.setStudentNum(Integer.parseInt(s.get(1)));
         return moduleCode;
     }
 

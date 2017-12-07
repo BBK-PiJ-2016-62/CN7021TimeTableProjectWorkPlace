@@ -15,13 +15,10 @@ public class CheckTutorialGroupSufficiencyImpl implements CheckTutorialGroupSuff
         ArrayList<ModuleImpl> moduleCodes1 = fml.addingDataToModuleCodes(firstList, moduleCodes);
         ArrayList<String> tutorialGroupSufficencyResult=new ArrayList<>();
         String firstLine = "Whether groups set for each module need to be increased or reduced and for how many:";
-        String warning ="  WARNING:  Not able to study these modules:";
-        String list1= new TrimModStudNumTable().modulesNotInTimeTable()
         System.out.println();
         System.out.println(firstLine);
         tutorialGroupSufficencyResult.add("");
         tutorialGroupSufficencyResult.add(firstLine);
-        //turorialGroupSufficencyResult.add
         for (ModuleImpl m : moduleCodes) {
             int count = 0;
             for (ArrayList<String> as : m.getTypeOfMeetingNRmNumList()) {
