@@ -57,6 +57,5 @@ public class InputAndTidyUpTimeTable {
         for (int i : tempToBeDeletedItemIndex) stringArrayList.remove(i);
         stringArrayList.set(0, s);
         return stringArrayList;
-
     }
 }

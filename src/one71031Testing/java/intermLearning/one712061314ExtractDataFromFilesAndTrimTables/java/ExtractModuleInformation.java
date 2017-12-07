@@ -10,13 +10,29 @@ import java.util.Arrays;
  */
 public class ExtractModuleInformation {
 
+    public static void main(String[] args){
+        ExtractModuleInformation emi=new ExtractModuleInformation();
+       System.out.println(emi.modStudNumList());
+    }
+
     public ArrayList<ArrayList<String>> modStudNumList() {
         ArrayList<ArrayList<String>> modStudNumList =
                 moduleNumOfStudentList(inputDataFromTable("SM0469.csv"));
         ArrayList<ArrayList<String>> modStudNumList1 =
                 moduleNumOfStudentList(inputDataFromTable("SM0477.csv"));
-        modStudNumList.addAll(modStudNumList1);
-        System.out.print(modStudNumList);
+        //modStudNumList.addAll(modStudNumList1);
+        ArrayList<ArrayList<String>> tempModStudNumList = new ArrayList<>(modStudNumList);
+        ArrayList<ArrayList<String>> tempModStudNumList1 = new ArrayList<>(modStudNumList1);
+        int count;
+        abcd:
+        for(ArrayList<String> alStr:modStudNumList1) {
+            count = 0;
+            for (ArrayList<String> alStr1 : tempModStudNumList) {
+                if (alStr.get(0).trim().toLowerCase().equals(alStr1.get(0).trim().toLowerCase())) continue abcd;
+                else if(count==tempModStudNumList.size()-1)modStudNumList.add(alStr);
+                count++;
+            }
+        }
         return modStudNumList;
     }
     public static ArrayList<ArrayList<String>> inputDataFromTable(String moduleInforPath) {
