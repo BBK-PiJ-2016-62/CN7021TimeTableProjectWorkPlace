@@ -7,12 +7,12 @@ import java.util.*;
 public class TrimModStudNumTable {
 
     /*public static void main(String[] args){
-        ExtractModuleInformation emi = new ExtractModuleInformation();
+        InputAndTidyUpModuleList emi = new InputAndTidyUpModuleList();
         ArrayList<ArrayList<String>> modStudNumList= emi.modStudNumList();
         //System.out.println(modStudNumList);
         InputAndTidyUpTimeTable iattt=new InputAndTidyUpTimeTable();
         ArrayList<ArrayList<String>> firstList = iattt.inputAndTidyTimeTable();
-        TrimModStudNumTable ttbles = new TrimModStudNumTable();
+        CmprTmTblNModLstTrimModLstNProdWrnng ttbles = new CmprTmTblNModLstTrimModLstNProdWrnng();
         //System.out.println(ttbles.tydyingModStudNumList(modStudNumList, firstList));
         //System.out.println(ttbles.modulesInModStudNumListButNotTimeTable);
         ArrayList<String> modulesNotInTimeTable = ttbles.modulesNotInTimeTable(modStudNumList, firstList);
