@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/currentWorkingDen/java/currentWorkingDen171205/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/learnJUnit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

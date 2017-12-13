@@ -20,7 +20,7 @@ public interface TeachingOverlapAndHours {
 
     public ArrayList<ArrayList<String>> pick(ArrayList<ArrayList<String>> stringAArrayList);
 
-    public ArrayList<ArrayList<String>> teachingTimeExceedSixHoursADa
+    public ArrayList<ArrayList<String>> teachingTimeExceedSixHoursADay
             (ArrayList<ArrayList<String>> stringAArrayList);
 
     /**
