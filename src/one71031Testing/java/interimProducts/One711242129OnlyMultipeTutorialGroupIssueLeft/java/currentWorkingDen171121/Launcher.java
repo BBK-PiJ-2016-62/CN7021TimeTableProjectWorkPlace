@@ -14,7 +14,7 @@ public class Launcher {
         TeachingOverlapAndHours toah = new TeachingOverlapAndHoursImpl();
 
         ArrayList<ArrayList<String>> inputTimeTable=iattt.inputAndTidyTimeTable(
-                "one711121412textSampleWithDataAlteredForLearning.txt");
+                "DraftTimeTable1.txt");
 
         toah.teachingOverlapAndHours(inputTimeTable);
         fml.tutGroupAndRoomSize(inputTimeTable);

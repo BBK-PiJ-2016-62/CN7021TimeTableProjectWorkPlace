@@ -46,12 +46,12 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
         String list1= new TrimModStudNumTable().modulesNotInModuleList
                 (new ExtractModuleInformation().modStudNumList(),
                         new InputAndTidyUpTimeTableImpl().
-                                inputAndTidyTimeTable("timetable-example.csv"))
+                                inputAndTidyTimeTable("DraftTimeTable_KeepForAWhile.csv"))
                 .toString().replace("[","").replace("]","");
         String list2= new TrimModStudNumTable().modulesNotInTimeTable
                 (new ExtractModuleInformation().modStudNumList(),
                         new InputAndTidyUpTimeTableImpl().
-                                inputAndTidyTimeTable("timetable-example.csv"))
+                                inputAndTidyTimeTable("DraftTimeTable_KeepForAWhile.csv"))
                 .toString().replace("[","").replace("]","");
         System.out.println();
         System.out.println(firstLine);

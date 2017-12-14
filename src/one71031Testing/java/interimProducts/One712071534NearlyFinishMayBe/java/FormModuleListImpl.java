@@ -27,7 +27,7 @@ public class FormModuleListImpl implements FormModuleList {
         //ArrayList<ArrayList<String>> .modStudNumList()
         TrimModStudNumTable ttbles = new TrimModStudNumTable();
         InputAndTidyUpTimeTable iattt=new InputAndTidyUpTimeTableImpl();
-        ArrayList<ArrayList<String>> firstList = iattt.inputAndTidyTimeTable("timetable-example.csv");
+        ArrayList<ArrayList<String>> firstList = iattt.inputAndTidyTimeTable("DraftTimeTable_KeepForAWhile.csv");
         ArrayList<String> modulesNotInTimeTable = ttbles.modulesNotInTimeTable(modStudNumList, firstList);
         ArrayList<ArrayList<String>> trimModListAllInTmTable=
                 ttbles.trimModListAllInTmTable(emi.modStudNumList(), modulesNotInTimeTable);

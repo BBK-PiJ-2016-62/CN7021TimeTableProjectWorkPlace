@@ -16,11 +16,11 @@ public class InputAndTidyUpTimeTable {
     public ArrayList<ArrayList<String>> inputAndTidyTimeTable() {
 
         //ArrayList<ArrayList<String>> inputTimeTable=iattt.inputAndTidyTimeTable(
-               // "timetable-example.csv");
+               // "DraftTimeTable_KeepForAWhile.csv");
         ArrayList<ArrayList<String>> firstList = new ArrayList<>();
         //ArrayList<ArrayList<String>> secondList = new ArrayList<>();
         //"one711121412textSampleWithDataAlteredForLearning.txt"
-        Path path = Paths.get("timetable-example.csv");
+        Path path = Paths.get("DraftTimeTable_KeepForAWhile.csv");
         try {
             Files.lines(path).forEach(s ->/*firstList.add(s));*/firstList.add(new ArrayList<>(Arrays.asList(s.split(",")))));
         } catch (IOException e) {

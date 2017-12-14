@@ -17,7 +17,7 @@ public class ExtractModuleInformation {
 
     public ArrayList<ArrayList<String>> modStudNumList() {
         ArrayList<ArrayList<String>> modStudNumList =
-                moduleNumOfStudentList(inputDataFromTable("SM0469.csv"));
+                moduleNumOfStudentList(inputDataFromTable("ModuleList_KeepForAWhile.csv"));
         ArrayList<ArrayList<String>> modStudNumList1 =
                 moduleNumOfStudentList(inputDataFromTable("SM0477.csv"));
         //modStudNumList.addAll(modStudNumList1);
@@ -38,7 +38,7 @@ public class ExtractModuleInformation {
     public static ArrayList<ArrayList<String>> inputDataFromTable(String moduleInforPath) {
         ArrayList<ArrayList<String>> firstList = new ArrayList<>();
         //ArrayList<ArrayList<String>> secondList = new ArrayList<>();
-        //"one711121412textSampleWithDataAlteredForLearning.txt"
+        //"DraftTimeTable1.txt"
         Path path = Paths.get(moduleInforPath);
         try {
             Files.lines(path).forEach(s ->firstList.add(new ArrayList<>

@@ -22,12 +22,12 @@ public class Launcher {
 
     //path and file name of data files
     //Draft Time Table
-    public static final String draftTimeTablePath = "timetable-example.csv";
-    public static final String moduleListPath1 = "SM0469.csv";
+    public static final String draftTimeTablePath = "DraftTimeTable_KeepForAWhile.csv";
+    public static final String moduleListPath1 = "ModuleList_KeepForAWhile.csv";
     public static final String moduleListPath2 = "SM0477.csv";
-    public static final String roomListPath= "RoomDetails-2017-18 UPDATED.csv";
+    public static final String roomListPath= "RoomList_KeepForAWhile.csv";
 
-    //"SM0469.csv" "SM0477.csv"
+    //"ModuleList_KeepForAWhile.csv" "SM0477.csv"
 
     public static void main(String[] args) {
 

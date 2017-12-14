@@ -15,7 +15,7 @@ public class Launcher {
         CheckTutorialGroupSufficiency ctgs = new CheckTutorialGroupSufficiencyImpl();
 
         ArrayList<ArrayList<String>> inputTimeTable=iattt.inputAndTidyTimeTable(
-                "one711121412textSampleWithDataAlteredForLearning.txt");
+                "DraftTimeTable1.txt");
 
         //toah.teachersHavingTimeCrashes(inputTimeTable);
         //toah.teachesTeachMoreThanSixHoursADay(inputTimeTable);

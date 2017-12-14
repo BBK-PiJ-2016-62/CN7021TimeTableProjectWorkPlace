@@ -13,9 +13,9 @@ public class ExtractRoomDetails {
 
     public ArrayList<ArrayList<String>> formRoomSizeList() {
 
-        //System.out.println(inputDataFromTable("RoomDetails-2017-18 UPDATED.csv"));
+        //System.out.println(inputDataFromTable("RoomList_KeepForAWhile.csv"));
         ArrayList<ArrayList<String>> roomSizeList =
-                formingRoomSizeList(inputDataFromTable("RoomDetails-2017-18 UPDATED.csv"));
+                formingRoomSizeList(inputDataFromTable("RoomList_KeepForAWhile.csv"));
         try {
             FileWriter writer = new FileWriter("roomSizeList.txt");
             for (ArrayList<String> rmAndSz : roomSizeList) {
@@ -35,7 +35,7 @@ public class ExtractRoomDetails {
     public static ArrayList<ArrayList<String>> inputDataFromTable(String roomDetailsPath) {
         ArrayList<ArrayList<String>> firstList = new ArrayList<>();
         //ArrayList<ArrayList<String>> secondList = new ArrayList<>();
-        //"one711121412textSampleWithDataAlteredForLearning.txt"
+        //"DraftTimeTable1.txt"
         Path path = Paths.get(roomDetailsPath);
         try {
             Files.lines(path).forEach(s ->firstList.add(new ArrayList<>

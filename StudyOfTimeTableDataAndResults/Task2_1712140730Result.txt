@@ -1,0 +1,22 @@
+Task2 result:
+
+Teachers who teach more than six hours a day (name, term, day and hours):
+?, 1, Friday, 8.0
+?, 1, Saturday, 8.0
+?, 2, Friday, 8.0
+?, 2, Saturday, 8.0
+Amin Karami, 1, Monday, 8.0
+Fahimeh Jafari, 1, Monday, 7.0
+Gaurav Malik, 2, Tuesday, 7.0
+HPL, 2, Friday, 8.0
+HPL, 2, Monday, 8.0
+HPL, 2, Thursday, 8.0
+HPL, 2, Tuesday, 8.0
+HPL, 2, Wednesday, 8.0
+Rabih Bashroush, 1, Friday, 8.0
+Rabih Bashroush, 1, Monday, 8.0
+Rabih Bashroush, 1, Thursday, 8.0
+Rabih Bashroush, 1, Tuesday, 8.0
+Shafiq Ur Rehman, 1, Friday, 7.0
+
+   -- This result is produced at 07:30AM, 14 December, 2017

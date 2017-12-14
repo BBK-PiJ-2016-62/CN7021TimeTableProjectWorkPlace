@@ -11,7 +11,7 @@ public class TrimModStudNumTable {
         ArrayList<ArrayList<String>> modStudNumList= emi.modStudNumList();
         //System.out.println(modStudNumList);
         InputAndTidyUpTimeTable iattt=new InputAndTidyUpTimeTableImpl();
-        ArrayList<ArrayList<String>> firstList = iattt.inputAndTidyTimeTable("timetable-example.csv");
+        ArrayList<ArrayList<String>> firstList = iattt.inputAndTidyTimeTable("DraftTimeTable_KeepForAWhile.csv");
         TrimModStudNumTable ttbles = new TrimModStudNumTable();
         //System.out.println(ttbles.tydyingModStudNumList(modStudNumList, firstList));
         //System.out.println(ttbles.modulesInModStudNumListButNotTimeTable);

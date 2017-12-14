@@ -25,7 +25,7 @@ public class Launcher {
         CheckTutorialGroupSufficiency ctgs = new CheckTutorialGroupSufficiencyImpl();
 
         ArrayList<ArrayList<String>> inputTimeTable=iattt.inputAndTidyTimeTable(
-                "timetable-example.csv");/*"one711121412textSampleWithDataAlteredForLearning.txt");*/
+                "DraftTimeTable_KeepForAWhile.csv");/*"DraftTimeTable1.txt");*/
         JFrame f=new JFrame("Study of Timetable");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         //final JTextField tf=new JTextField();
