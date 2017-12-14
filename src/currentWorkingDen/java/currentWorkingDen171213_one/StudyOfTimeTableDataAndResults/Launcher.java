@@ -97,7 +97,7 @@ public class Launcher {
                                 "in the folder "+pathOfTheFolderForKeepingResultFiles+" on Desktop.");
             }
         });
-        JButton b4=new JButton("Click here to find: \"Task 4: Whether size of leture rooms or labs assigned to each " +
+        JButton b4=new JButton("Click here to find: \"Task 4: Whether size of lecture rooms or labs assigned to each " +
                 "module is ok with student numbers.\"");
         b4.setBounds(10,150,1100,30);
         b4.setHorizontalAlignment(10);
@@ -128,8 +128,10 @@ public class Launcher {
     public static String produceCurrentTimeTextFileNameAndNotifyOnScreen(ArrayList<String> result, String taskNum) {
         LocalDateTime ldt = LocalDateTime.now();
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyMMddHHmm");
-        String outPutTaskFileName = taskNum+"_"+ldt.format(dtf)+ "Result.csv";
-        //Path path = Paths.get("StudyOfTimeTableDataAndResults\\helloWorld.txt");
+        String outPutTaskFileName = " "; //taskNum+"_"+ldt.format(dtf)+ "Result.csv";
+        if (taskNum.trim().toLowerCase().equals("task1")||taskNum.trim().toLowerCase().equals("task2"))
+            outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.csv";
+        else outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.txt";;
         ArrayList<String> tempStrings= new ArrayList<>();
         try {
             FileWriter writer = new FileWriter

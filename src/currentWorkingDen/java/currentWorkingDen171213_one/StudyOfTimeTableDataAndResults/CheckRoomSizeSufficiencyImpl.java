@@ -32,7 +32,7 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                 formRoomSizeList();
 
         ArrayList<String> roomSizeSufficiencyResult=new ArrayList<>();
-        String firstLine="Adequacy of rooms allocated to lectures, tutorials and practicals: ";
+        String firstLine="Find whether size of lecture rooms or labs assigned to each module is ok with student numbers:";
         String warning ="  WARNING:  Not able to study these modules since " +
                 "they contained only in either the timetable or the module list:";
         String list1= new CmprTmTblNModLstTrimModLstNProdWrnngImpl().modulesNotInModuleList

@@ -1,6 +1,7 @@
 Task1 result:
 
-Details of teachers having been allocated the same time for more than a lesson:
+Details of teachers having been allocated the same time for more than one lesson:
+ 
 Module Code,  Category,  Term,  Day,  Start,  End,  Teacher(s),  Room type
 CN6120, Practicals, 1, Monday, 14:00, 16:00, Aaron Kans, ITC02
 CN6120, Practicals, 1, Monday, 14:00, 16:00, Aaron Kans, ITC06
@@ -17,5 +18,4 @@ CN6104, Practicals, 1, Thursday, 11:00, 13:00, Mufajjul Ali, ITC07
 CN5120, Lecture, 1, Tuesday, 13:00, 15:00, Syed Islam, WB.3.02
 CN6104, Lecture, 1, Tuesday, 13:00, 15:00, Syed Islam, WB.3.02/EB.3.19
 
- -- This result is produced at 
-   12:54PM 14 December 2017
+  -- This result is produced at  1:19PM  14 December 2017

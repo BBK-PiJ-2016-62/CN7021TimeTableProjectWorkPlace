@@ -2,47 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344d9139-928c-47a2-a4a9-e23a607f5599" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Launcher.class" afterPath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Launcher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/DraftTimeTable_KeepForAWhile.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/ModuleList_KeepForAWhile.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/RoomList_KeepForAWhile.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712140706Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712140730Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141232Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141245Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141254Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141300Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141302Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141306Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141308Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712140707Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712140730Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141151Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141159Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141220Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141223Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141225Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141231Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141255Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141300Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141306Result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712140711Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712140730Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712140711Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712140721Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712140730Result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/one711121412textSampleWithDataAlteredForLearning.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/one711131409RoomSizeSortedCurrentWorking.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/one711191951StudentNumSortedCurrentWorking.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/RoomDetails-2017-18 UPDATED.csv" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/RoomDetails-2017-18 UPDATED.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/SM0469.csv" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/SM0469.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/SM0477.csv" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/SM0477.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task1_1712131714Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712131714Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task1_1712140634Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712140634Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task1_1712140636Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712140636Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task2_1712131714Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task2_1712131714Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task2_1712140634Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task2_1712140634Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task2_1712140636Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task2_1712140636Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task3_1712131714Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task3_1712131714Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task3_1712140634Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task3_1712140634Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task3_1712140636Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task3_1712140636Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task4_1712131714Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712131714Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task4_1712131720Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712131720Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task4_1712140634Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140634Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/Task4_1712140636Result.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140636Result.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/helloWorld.txt" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/helloWorld.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataGivenByTeacherAndResults/timetable-example.csv" afterPath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/timetable-example.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/CheckRoomSizeSufficiency.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiency.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/CheckRoomSizeSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/CheckTutorialGroupSufficiency.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiency.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/CheckTutorialGroupSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiencyImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/CmprTmTblNModLstTrimModLstNProdWrnng.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CmprTmTblNModLstTrimModLstNProdWrnng.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/FormModuleList.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/FormModuleList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/FormModuleListImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/FormModuleListImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/InputAndTidyUpModuleList.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpModuleList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/InputAndTidyUpModuleListImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpModuleListImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/InputAndTidyUpRmDetailList.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/InputAndTidyUpRmDetailListImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailListImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/InputAndTidyUpTimeTable.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpTimeTable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/InputAndTidyUpTimeTableImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpTimeTableImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/Launcher.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Launcher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/Module.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Module.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/ModuleImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/ModuleImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/TeachingOverlapAndHours.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHours.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataGivenByTeacherAndResults/TeachingOverlapAndHoursImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHoursImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,28 +48,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TeachingOverlapAndHoursImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="135" column="81" lean-forward="false" selection-start-line="135" selection-start-column="63" selection-end-line="135" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,8 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171205/java/ExtractRoomDetails.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171205/java/CheckRoomSizeSufficiencyImpl.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171205/java/CheckTutorialGroupSufficiencyImpl.java" />
         <option value="$PROJECT_DIR$/src/learnJUnit/src/one712120907SimplestClass/One712120907SimplestClass.java" />
         <option value="$PROJECT_DIR$/src/learnJUnit/src/one712120907SimplestClass/One712120907SimplestClassTest.java" />
@@ -171,8 +142,10 @@
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailListImpl.java" />
         <option value="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/RoomList1.csv" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java" />
       </list>
     </option>
   </component>
@@ -1036,16 +1009,15 @@
       <workItem from="1513185407910" duration="1562000" />
       <workItem from="1513230629207" duration="7181000" />
       <workItem from="1513239863631" duration="1100000" />
-      <workItem from="1513252111006" duration="4893000" />
+      <workItem from="1513252111006" duration="6704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189747000" />
+    <option name="totallyTimeSpent" value="191558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="9" width="1924" height="1029" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1057,13 +1029,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39350182" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39350182" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2987013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2987013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1075,7 +1048,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1110,13 +1082,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpModuleList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1388,26 +1353,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="99" column="81" lean-forward="false" selection-start-line="99" selection-start-column="81" selection-end-line="99" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="231">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="34" column="119" lean-forward="false" selection-start-line="34" selection-start-column="119" selection-end-line="34" selection-end-column="119" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="135" column="81" lean-forward="false" selection-start-line="135" selection-start-column="63" selection-end-line="135" selection-end-column="81" />
+        <state relative-caret-position="630">
+          <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
           <folding />
         </state>
       </provider>

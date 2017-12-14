@@ -89,4 +89,4 @@ CD4103: Tutorial/Practical group number: 1. It commensurates number of students:
 CD4104: Number of students: 23. Tutorial/practical group number: 4. Therefore, 3 tutorial/practical group(s) need to be withdrawn.
 (Caveat: classroom size has not been taken into consideration.)
 
-   -- This result is produced at 07:30AM, 14 December, 2017
+  -- This result is produced at  1:22PM  14 December 2017

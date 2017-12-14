@@ -16,7 +16,7 @@ public class TeachingOverlapAndHoursImpl implements TeachingOverlapAndHours {
 
         ArrayList<ArrayList<String>> fifthList= new ArrayList<>(teachingOverlapAndHours(firstList));
         ArrayList<String> teachersTimeCrashesResult=new ArrayList<>();
-        String firstLine = "Details of teachers having been allocated the same time for more than one lesson:";
+        String firstLine = "Find clashes in teacher same time in different classes:";
         System.out.println(firstLine);
         System.out.println();
         teachersTimeCrashesResult.add(firstLine);
@@ -26,7 +26,7 @@ public class TeachingOverlapAndHoursImpl implements TeachingOverlapAndHours {
                 "Module Code/ Category/ Term/ Day/ Start/ End/ Teacher(s)/ Room type".split("/")));
         String csvFileHeaderStr=csvFileHeader.toString().replace("[","").replace("]","");
         teachersTimeCrashesResult.add(csvFileHeaderStr);
-        System.out.println(csvFileHeader);
+        System.out.println(csvFileHeaderStr);
         for (ArrayList<String> pk: picked){
             ArrayList<String> condensedList = new ArrayList<>();
             condensedList.add(pk.get(1)); condensedList.add(pk.get(3)); condensedList.add(pk.get(4));
@@ -45,7 +45,7 @@ public class TeachingOverlapAndHoursImpl implements TeachingOverlapAndHours {
         ArrayList<ArrayList<String>> fifthList= new ArrayList<>(teachingOverlapAndHours(firstList));
         ArrayList<String> teachersMoreThanSixHoursADayResult=new ArrayList<>();
         System.out.println();
-        String firstLine = "Teachers who teach more than six hours a day:";
+        String firstLine = "Find teachers who teach more than six hours a day:";
         System.out.println(firstLine);
         teachersMoreThanSixHoursADayResult.add(firstLine);
         System.out.println(" ");

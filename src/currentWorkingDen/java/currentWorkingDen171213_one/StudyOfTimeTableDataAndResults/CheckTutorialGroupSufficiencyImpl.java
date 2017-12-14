@@ -18,7 +18,7 @@ public class CheckTutorialGroupSufficiencyImpl implements CheckTutorialGroupSuff
         ArrayList<ModuleImpl> moduleCodes = new ArrayList<>(fml.moduleCodes());
         ArrayList<ModuleImpl> moduleCodes1 = fml.addingDataToModuleCodes(firstList, moduleCodes);
         ArrayList<String> tutorialGroupSufficencyResult=new ArrayList<>();
-        String firstLine = "Whether groups set for each module need to be increased " +
+        String firstLine = "Find whether groups set for each module need to be increased " +
                 "or reduced and for how many:\n";
         String warning ="  WARNING:  Not able to study these modules since " +
                 "they contained only in either the timetable or the module list:";
