@@ -1,0 +1,9 @@
+Task4 result:
+
+
+Adequacy of rooms allocated to lectures, tutorials and practicals: 
+  WARNING:  Not able to study these modules since they contained only in either the timetable or the module list:
+  
+  
+
+   -- This result is produced at 07:52AM, 14 December, 2017

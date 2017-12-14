@@ -16,14 +16,23 @@ public class TeachingOverlapAndHoursImpl implements TeachingOverlapAndHours {
 
         ArrayList<ArrayList<String>> fifthList= new ArrayList<>(teachingOverlapAndHours(firstList));
         ArrayList<String> teachersTimeCrashesResult=new ArrayList<>();
-        String firstLine = "Details of teachers having been allocated the same time for more than a lesson:";
-        System.out.println();
+        String firstLine = "Details of teachers having been allocated the same time for more than one lesson:";
         System.out.println(firstLine);
+        System.out.println();
         teachersTimeCrashesResult.add(firstLine);
+        teachersTimeCrashesResult.add(" ");
         ArrayList<ArrayList<String>> picked = pick(fifthList);
-        //ArrayList<String> teachersTimeCrashesResult=new ArrayList<>();
+        ArrayList<String> csvFileHeader = new ArrayList<>(Arrays.asList(
+                "Module Code/ Category/ Term/ Day/ Start/ End/ Teacher(s)/ Room type".split("/")));
+        String csvFileHeaderStr=csvFileHeader.toString().replace("[","").replace("]","");
+        teachersTimeCrashesResult.add(csvFileHeaderStr);
+        System.out.println(csvFileHeader);
         for (ArrayList<String> pk: picked){
-            String pk1=pk.toString().replace("[","").replace("]","");
+            ArrayList<String> condensedList = new ArrayList<>();
+            condensedList.add(pk.get(1)); condensedList.add(pk.get(3)); condensedList.add(pk.get(4));
+            condensedList.add(pk.get(5)); condensedList.add(pk.get(6)); condensedList.add(pk.get(7));
+            condensedList.add(pk.get(11)); condensedList.add(pk.get(13));
+            String pk1=condensedList.toString().replace("[","").replace("]","");
             teachersTimeCrashesResult.add(pk1);
             System.out.println(pk1);
         }
@@ -35,10 +44,15 @@ public class TeachingOverlapAndHoursImpl implements TeachingOverlapAndHours {
 
         ArrayList<ArrayList<String>> fifthList= new ArrayList<>(teachingOverlapAndHours(firstList));
         ArrayList<String> teachersMoreThanSixHoursADayResult=new ArrayList<>();
-        String firstLine = "Teachers who teach more than six hours a day (name, term, day and hours):";
         System.out.println();
+        String firstLine = "Teachers who teach more than six hours a day:";
         System.out.println(firstLine);
         teachersMoreThanSixHoursADayResult.add(firstLine);
+        System.out.println(" ");
+        teachersMoreThanSixHoursADayResult.add(" ");
+        String csvFileHeader= "Teacher Name, Term, Day, Hours";
+        System.out.println(csvFileHeader);
+        teachersMoreThanSixHoursADayResult.add(csvFileHeader);
         ArrayList<ArrayList<String>> tTimeEx6ADay = teachingTimeExceedSixHoursADay(fifthList);
         for (ArrayList<String> ttex6: tTimeEx6ADay){
             String ttex61=ttex6.toString().replace("[","").replace("]","");

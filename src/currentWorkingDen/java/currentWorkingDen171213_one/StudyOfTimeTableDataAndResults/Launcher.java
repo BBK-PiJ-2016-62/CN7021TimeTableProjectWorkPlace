@@ -128,7 +128,7 @@ public class Launcher {
     public static String produceCurrentTimeTextFileNameAndNotifyOnScreen(ArrayList<String> result, String taskNum) {
         LocalDateTime ldt = LocalDateTime.now();
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyMMddHHmm");
-        String outPutTaskFileName = taskNum+"_"+ldt.format(dtf)+ "Result.txt";
+        String outPutTaskFileName = taskNum+"_"+ldt.format(dtf)+ "Result.csv";
         //Path path = Paths.get("StudyOfTimeTableDataAndResults\\helloWorld.txt");
         ArrayList<String> tempStrings= new ArrayList<>();
         try {
@@ -137,8 +137,8 @@ public class Launcher {
             tempStrings.add(taskNum+" result:");
             tempStrings.add("");
             result.forEach(s->tempStrings.add(s));
-            tempStrings.add("\n   -- This result is produced at "
-                    +ldt.format(DateTimeFormatter.ofPattern("hh:mma, d MMMM, yyyy")));
+            tempStrings.add("\n  -- This result is produced at  "
+                    +ldt.format(DateTimeFormatter.ofPattern("h:mma  d MMMM yyyy")));
             for(String str: tempStrings){
                 writer.write(str+"\n");
             }

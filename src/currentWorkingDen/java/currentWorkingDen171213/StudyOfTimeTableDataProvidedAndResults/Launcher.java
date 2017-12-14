@@ -24,15 +24,15 @@ public class Launcher {
 
     //path and file name of data files
     //Draft Time Table
-    public static final String draftTimeTablePath = "StudyOfTimeTableDataGivenByTeacherAndResults\\DraftTimeTable_KeepForAWhile.csv";
+    public static final String draftTimeTablePath = "StudyOfTimeTableDataProvidedAndResults\\timetable-example.csv";
     //module list
-    public static final String moduleListPath1 = "StudyOfTimeTableDataGivenByTeacherAndResults\\ModuleList_KeepForAWhile.csv";
-    public static final String moduleListPath2 = "StudyOfTimeTableDataGivenByTeacherAndResults\\SM0477.csv";
+    public static final String moduleListPath1 = "StudyOfTimeTableDataProvidedAndResults\\SM0469.csv";
+    public static final String moduleListPath2 = "StudyOfTimeTableDataProvidedAndResults\\SM0477.csv";
     //room details list
-    public static final String roomListPath= "StudyOfTimeTableDataGivenByTeacherAndResults\\RoomList_KeepForAWhile.csv";
+    public static final String roomListPath= "StudyOfTimeTableDataProvidedAndResults\\RoomDetails-2017-18 UPDATED.csv";
 
     //path of the folder for storing result files
-    public static final String pathOfTheFolderForKeepingResultFiles= "StudyOfTimeTableDataGivenByTeacherAndResults";
+    public static final String pathOfTheFolderForKeepingResultFiles= "StudyOfTimeTableDataProvidedAndResults";
 
     //"ModuleList_KeepForAWhile.csv" "SM0477.csv"
 
