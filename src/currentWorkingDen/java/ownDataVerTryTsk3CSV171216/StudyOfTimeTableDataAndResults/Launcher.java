@@ -24,15 +24,14 @@ public class Launcher {
 
     //path and file name of data files
     //Draft Time Table
-    public static final String draftTimeTablePath = "StudyOfTimeTableDataProvidedAndResults\\timetable-example.csv";
+    public static final String draftTimeTablePath = "StudyOfTimeTableDataAndResults\\DraftTimeTable.csv";
     //module list
-    public static final String moduleListPath1 = "StudyOfTimeTableDataProvidedAndResults\\SM0469.csv";
-    public static final String moduleListPath2 = "StudyOfTimeTableDataProvidedAndResults\\SM0477.csv";
+    public static final String moduleListPath = "StudyOfTimeTableDataAndResults\\ModuleList.csv";
     //room details list
-    public static final String roomListPath= "StudyOfTimeTableDataProvidedAndResults\\RoomDetails-2017-18 UPDATED.csv";
+    public static final String roomListPath= "StudyOfTimeTableDataAndResults\\RoomList.csv";
 
     //path of the folder for storing result files
-    public static final String pathOfTheFolderForKeepingResultFiles= "StudyOfTimeTableDataProvidedAndResults";
+    public static final String pathOfTheFolderForKeepingResultFiles= "StudyOfTimeTableDataAndResults";
 
     //"ModuleList_KeepForAWhile.csv" "SM0477.csv"
 
@@ -129,12 +128,11 @@ public class Launcher {
     public static String produceCurrentTimeTextFileNameAndNotifyOnScreen(ArrayList<String> result, String taskNum) {
         LocalDateTime ldt = LocalDateTime.now();
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyMMddHHmm");
-        String outPutTaskFileName = " ";//taskNum+"_"+ldt.format(dtf)+ "Result.txt";
-        if (taskNum.trim().toLowerCase().equals("task4")) outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.txt";
-        else outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.csv";
-        /*if (taskNum.trim().toLowerCase().equals("task1")||taskNum.trim().toLowerCase().equals("task2"))
+        String outPutTaskFileName = " "; //taskNum+"_"+ldt.format(dtf)+ "Result.csv";
+        if (taskNum.trim().toLowerCase().equals("task1")||taskNum.trim().toLowerCase().equals("task2")
+                ||taskNum.trim().toLowerCase().equals("task3"))
             outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.csv";
-        else outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.txt";*/
+        else outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.txt";;
         ArrayList<String> tempStrings= new ArrayList<>();
         try {
             FileWriter writer = new FileWriter
@@ -142,7 +140,7 @@ public class Launcher {
             tempStrings.add(taskNum+" result:");
             tempStrings.add("");
             result.forEach(s->tempStrings.add(s));
-            tempStrings.add("\n  -- This result is produced at "
+            tempStrings.add("\n  -- This result is produced at  "
                     +ldt.format(DateTimeFormatter.ofPattern("h:mma  d MMMM yyyy")));
             for(String str: tempStrings){
                 writer.write(str+"\n");
