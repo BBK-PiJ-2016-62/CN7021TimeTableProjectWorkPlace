@@ -68,8 +68,6 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                     count++;
                 }
                 if (as.get(0).trim().toLowerCase().contains("lecture")){
-                    /*int roomSize=0;
-                    boolean rmFound=false;*/
                     ArrayList<String> asList = new ArrayList<>(Arrays.asList(as.get(1).
                             split("/")));
                     Iterator<String> itr=asList.iterator();

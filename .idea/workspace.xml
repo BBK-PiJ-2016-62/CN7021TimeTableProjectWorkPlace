@@ -2,57 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344d9139-928c-47a2-a4a9-e23a607f5599" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712141319Result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141319Result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712141322Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712141322Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712131714Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712140634Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712140636Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task2_1712131714Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task2_1712140634Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task2_1712140636Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task3_1712131714Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task3_1712140634Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task3_1712140636Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712131714Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712131720Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140634Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140636Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140752Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140755Result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/helloWorld.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CheckRoomSizeSufficiency.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CheckRoomSizeSufficiencyImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CheckTutorialGroupSufficiency.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CheckTutorialGroupSufficiencyImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CmprTmTblNModLstTrimModLstNProdWrnng.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CmprTmTblNModLstTrimModLstNProdWrnngImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CompareItemsInTheRowsOfTheTimetable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/CompareItemsInTheRowsOfTheTimetableImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/FormModuleList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/FormModuleListImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/InputAndTidyUpModuleList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/InputAndTidyUpModuleListImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/InputAndTidyUpRmDetailList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/InputAndTidyUpRmDetailListImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/InputAndTidyUpTimeTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/InputAndTidyUpTimeTableImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Launcher$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Launcher$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Launcher$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Launcher$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Launcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/Module.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/ModuleImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/TeachingOverlapAndHours.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CN7021TimeTableProjectWorkPlace/TeachingOverlapAndHoursImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiencyImpl.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CN7021TimeTableProjectWorkPlace.iml" afterPath="$PROJECT_DIR$/CN7021TimeTableProjectWorkPlace.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Launcher.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Launcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHoursImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHoursImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailListImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailListImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiency.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiency.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiency.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiency.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailListImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailListImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpTimeTableImpl.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpTimeTableImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/Launcher.java" afterPath="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/Launcher.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,30 +26,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="InputAndTidyUpModuleListImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpModuleListImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="133" column="72" lean-forward="false" selection-start-line="133" selection-start-column="72" selection-end-line="133" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Module.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Module.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="0">
               <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding />
             </state>
@@ -98,28 +39,28 @@
       <file leaf-file-name="ModuleImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/ModuleImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="-589">
               <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckTutorialGroupSufficiencyImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java">
+      <file leaf-file-name="TeachingOverlapAndHours.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/TeachingOverlapAndHours.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1218">
-              <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+            <state relative-caret-position="240">
+              <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckTutorialGroupSufficiencyImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiencyImpl.java">
+      <file leaf-file-name="TeachingOverlapAndHoursImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-3424">
+              <caret line="121" column="68" lean-forward="false" selection-start-line="121" selection-start-column="68" selection-end-line="121" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -128,8 +69,48 @@
       <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Launcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2541">
-              <caret line="132" column="60" lean-forward="false" selection-start-line="132" selection-start-column="60" selection-end-line="132" selection-end-column="60" />
+            <state relative-caret-position="230">
+              <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/Launcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-21">
+              <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputAndTidyUpRmDetailListImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailListImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputAndTidyUpTimeTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpTimeTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-95">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputAndTidyUpTimeTableImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpTimeTableImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-536">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -182,17 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/Module.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/CheckTutorialGroupSufficiency.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/CheckRoomSizeSufficiency.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/ModuleImpl.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/TeachingOverlapAndHoursImpl.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/InputAndTidyUpModuleList1.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/InputAndTidyUpModuleList.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/InputAndTidyUpModuleListImpl.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/FormModuleListImpl.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/CheckTutorialGroupSufficiencyImpl.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/InputAndTidyUpRmDetailList1.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/InputAndTidyUpRmDetailList.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171207/java/InputAndTidyUpTimeTableImpl.java" />
@@ -230,9 +200,20 @@
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHoursImpl.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiencyImpl.java" />
-        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Launcher.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java" />
         <option value="$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiency.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiency.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailListImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpTimeTableImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailListImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/Launcher.java" />
       </list>
     </option>
   </component>
@@ -282,7 +263,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -338,9 +318,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="currentWorkingDen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ownDataVerTryTsk3CSV171216" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CN7021TimeTableProjectWorkPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="currentWorkingDen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -989,11 +1018,12 @@
       <workItem from="1513352546419" duration="16000" />
       <workItem from="1513415245306" duration="5068000" />
       <workItem from="1513429389553" duration="25000" />
+      <workItem from="1513429782165" duration="3219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203144000" />
+    <option name="totallyTimeSpent" value="206363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="9" width="1924" height="1029" extended-state="0" />
@@ -1001,30 +1031,30 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39350182" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39350182" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3262987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33116883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1061,120 +1091,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/FormModuleListImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/InputAndTidyUpModuleList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/RoomList_KeepForAWhile.csv" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712140617Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712140618Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712140618Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712140617Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task3_1712140634Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712140629Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/one711121412textSampleWithDataAlteredForLearning.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/RoomList1.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/one711191951StudentNumSortedCurrentWorking.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/DraftTimeTable_KeepForAWhile.csv" />
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/InputAndTidyUpModuleListImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712140706Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712140706Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712140711Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/RoomDetails-2017-18 UPDATED.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-819">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailListImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="27" column="67" lean-forward="false" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/ModuleList.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/ModuleList1.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/ModuleList_KeepForAWhile.csv" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/RoomList.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712140721Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/DraftTimeTable1.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task4_1712140730Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140752Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140636Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task4_1712140755Result.txt" />
-    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task2_1712141151Result.csv" />
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="132" column="55" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="133" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="50" column="32" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="61" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHoursImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="34" column="75" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-284">
-          <caret line="34" column="121" lean-forward="false" selection-start-line="34" selection-start-column="121" selection-end-line="34" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213_one/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1184,41 +1100,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/putCheckTutorialGroupSufficiencyImplTempHere/CheckTutorialGroupSufficiencyImpl.java" />
     <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712141703Result.csv" />
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Module.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/ModuleImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/putCheckTutorialGroupSufficiencyImplTempHere/CheckTutorialGroupSufficiencyImpl.java" />
     <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712160933Result.txt" />
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2541">
-          <caret line="132" column="60" lean-forward="false" selection-start-line="132" selection-start-column="60" selection-end-line="132" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task3_1712160951Result.csv" />
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
-          <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiencyImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1236,17 +1120,338 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/Module.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/currentWorkingDen171213/StudyOfTimeTableDataProvidedAndResults/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="133" column="72" lean-forward="false" selection-start-line="133" selection-start-column="72" selection-end-line="133" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiencyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2962">
+          <caret line="69" column="72" lean-forward="false" selection-start-line="69" selection-start-column="72" selection-end-line="69" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckRoomSizeSufficiency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CheckTutorialGroupSufficiencyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1030">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1261">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/CmprTmTblNModLstTrimModLstNProdWrnng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/FormModuleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/FormModuleListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-967">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpModuleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpModuleListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1198">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpRmDetailListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpTimeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/InputAndTidyUpTimeTableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/ModuleImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHours.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/TeachingOverlapAndHoursImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1575">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task1_1712161638Result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataProvidedAndResults/Task2_1712161638Result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckRoomSizeSufficiencyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2331">
+          <caret line="129" column="82" lean-forward="false" selection-start-line="129" selection-start-column="82" selection-end-line="129" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CheckTutorialGroupSufficiencyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CmprTmTblNModLstTrimModLstNProdWrnng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/CmprTmTblNModLstTrimModLstNProdWrnngImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/FormModuleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/FormModuleListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpModuleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpModuleListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-883">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpRmDetailListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpTimeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/InputAndTidyUpTimeTableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/ModuleImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/TeachingOverlapAndHours.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/TeachingOverlapAndHoursImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3424">
+          <caret line="121" column="68" lean-forward="false" selection-start-line="121" selection-start-column="68" selection-end-line="121" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyOfTimeTableDataAndResults/Task1_1712161650Result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataAndResults/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/currentWorkingDen/java/ownDataVerTryTsk3CSV171216/StudyOfTimeTableDataProvidedAndResults/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
           <folding />
         </state>
       </provider>

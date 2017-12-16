@@ -80,7 +80,8 @@ public class Launcher {
             }
         });
         JButton b3=new JButton("Click here to find: " +
-                "\"Task 3: Whether groups set for each module need to be increased or reduced and for how many.\"")/*("Click here to find: \"Teachers who teach more than six hours a day.\"")*/;
+                "\"Task 3: Whether tutorial/practical groups set for each module need to be increased " +
+                "or reduced and for how many.\"");
         b3.setBounds(10,105,1100,30);
         b3.setHorizontalAlignment(10);
         b3.setFont(font);

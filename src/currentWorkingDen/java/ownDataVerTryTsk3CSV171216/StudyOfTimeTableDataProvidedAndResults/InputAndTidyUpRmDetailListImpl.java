@@ -21,26 +21,11 @@ public class InputAndTidyUpRmDetailListImpl implements InputAndTidyUpRmDetailLis
         String roomListPath=Launcher.roomListPath;
         ArrayList<ArrayList<String>> roomSizeList =
                 formingRoomSizeList(inputDataFromTable(roomListPath));
-        /*try {
-            FileWriter writer = new FileWriter("roomSizeList.txt");
-            for (ArrayList<String> rmAndSz : roomSizeList) {
-                String row = rmAndSz.get(0) + "," + rmAndSz.get(1);
-                //System.out.println(row);
-                writer.write(row);
-                writer.write(System.getProperty("line.separator"));
-            }
-            writer.flush();
-            writer.close();
-        }catch(IOException e){
-            System.out.println(e);
-        }*/
         return  roomSizeList;
     }
 
     public static ArrayList<ArrayList<String>> inputDataFromTable(String roomDetailsPath) {
         ArrayList<ArrayList<String>> firstList = new ArrayList<>();
-        //ArrayList<ArrayList<String>> secondList = new ArrayList<>();
-        //"DraftTimeTable1.txt"
         Path path = Paths.get(roomDetailsPath);
         try {
             Files.lines(path).forEach(s ->firstList.add(new ArrayList<>
@@ -61,10 +46,8 @@ public class InputAndTidyUpRmDetailListImpl implements InputAndTidyUpRmDetailLis
                 findRoomSize.add(row.get(0));
                 findRoomSize.add(row.get(3));
                 roomSizeList.add(findRoomSize);
-                //System.out.println(row.get(0)+" "+row.get(3));
             }
         }
-        //firstList.forEach(s->roomSizeList.add(roomAndItsSize(s)));
         return roomSizeList;
     }
 

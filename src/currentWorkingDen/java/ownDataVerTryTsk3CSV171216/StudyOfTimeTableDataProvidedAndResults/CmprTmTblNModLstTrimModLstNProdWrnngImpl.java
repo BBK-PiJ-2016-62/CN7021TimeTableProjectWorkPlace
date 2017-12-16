@@ -10,24 +10,6 @@ import java.util.*;
 public class CmprTmTblNModLstTrimModLstNProdWrnngImpl
         implements CmprTmTblNModLstTrimModLstNProdWrnng {
 
-    /*public static void main(String[] args){
-        InputAndTidyUpModuleList emi = new InputAndTidyUpModuleList();
-        ArrayList<ArrayList<String>> modStudNumList= emi.modStudNumList();
-        //System.out.println(modStudNumList);
-        InputAndTidyUpTimeTable iattt=new InputAndTidyUpTimeTableImpl();
-        ArrayList<ArrayList<String>> firstList = iattt.inputAndTidyTimeTable("DraftTimeTable_KeepForAWhile.csv");
-        CmprTmTblNModLstTrimModLstNProdWrnng ttbles = new CmprTmTblNModLstTrimModLstNProdWrnng();
-        //System.out.println(ttbles.tydyingModStudNumList(modStudNumList, firstList));
-        //System.out.println(ttbles.modulesInModStudNumListButNotTimeTable);
-        ArrayList<String> modulesNotInTimeTable = ttbles.modulesNotInTimeTable(modStudNumList, firstList);
-        ArrayList<ArrayList<String>> trimModListAllInTmTable
-            =ttbles.trimModListAllInTmTable(modStudNumList, modulesNotInTimeTable);
-        //System.out.println(modulesNotInTimeTable);
-        //System.out.println(trimModListAllInTmTable);
-        ArrayList<String> modLstdOnTmTblButNotModLt = ttbles.modulesNotInModuleList(modStudNumList, firstList);
-        //System.out.println(modLstdOnTmTblButNotModLt);
-    }*/
-
     public ArrayList<String> modulesNotInTimeTable
             (ArrayList<ArrayList<String>> modStudNumList, ArrayList<ArrayList<String>> firstList){
         ArrayList<String> modulesListed= new ArrayList<>();

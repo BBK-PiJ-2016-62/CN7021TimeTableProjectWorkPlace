@@ -48,8 +48,6 @@ public class InputAndTidyUpTimeTableImpl implements InputAndTidyUpTimeTable {
                 tempToBeDeletedItemIndex.add(i);
             }
         }
-        //loop the list in reverse order so that removal of items would not affect
-        //index number of those not yet reached
         Collections.reverse(tempToBeDeletedItemIndex);
         for (int i : tempToBeDeletedItemIndex) stringArrayList.remove(i);
         stringArrayList.set(0, s);

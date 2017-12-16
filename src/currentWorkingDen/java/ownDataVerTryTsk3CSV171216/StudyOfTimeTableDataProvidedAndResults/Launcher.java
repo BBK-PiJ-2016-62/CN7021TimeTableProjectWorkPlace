@@ -25,7 +25,8 @@ public class Launcher {
     //path and file name of data files
     //Draft Time Table
     public static final String draftTimeTablePath = "StudyOfTimeTableDataProvidedAndResults\\timetable-example.csv";
-    //module list
+    //module list (Two module lists were provided with some modules mentioned in both lists. Should this occurs,
+    // only student number as stated in SM0469.csv will be used)
     public static final String moduleListPath1 = "StudyOfTimeTableDataProvidedAndResults\\SM0469.csv";
     public static final String moduleListPath2 = "StudyOfTimeTableDataProvidedAndResults\\SM0477.csv";
     //room details list
@@ -34,7 +35,6 @@ public class Launcher {
     //path of the folder for storing result files
     public static final String pathOfTheFolderForKeepingResultFiles= "StudyOfTimeTableDataProvidedAndResults";
 
-    //"ModuleList_KeepForAWhile.csv" "SM0477.csv"
 
     public static void main(String[] args) {
 
@@ -81,7 +81,8 @@ public class Launcher {
             }
         });
         JButton b3=new JButton("Click here to find: " +
-                "\"Task 3: Whether groups set for each module need to be increased or reduced and for how many.\"")/*("Click here to find: \"Teachers who teach more than six hours a day.\"")*/;
+                "\"Task 3: Whether tutorial/practical groups set for each module need to be increased" +
+                " or reduced and for how many.\"");
         b3.setBounds(10,105,1100,30);
         b3.setHorizontalAlignment(10);
         b3.setFont(font);

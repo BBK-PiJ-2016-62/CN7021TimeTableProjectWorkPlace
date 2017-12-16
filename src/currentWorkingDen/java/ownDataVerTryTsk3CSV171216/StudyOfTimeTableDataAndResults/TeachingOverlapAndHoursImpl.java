@@ -120,7 +120,6 @@ public class TeachingOverlapAndHoursImpl implements TeachingOverlapAndHours {
     public ArrayList<ArrayList<String>> splitArrayLists(ArrayList<String> arrayList, int itemNo) {
 
         ArrayList<ArrayList<String>> arrayLists = new ArrayList<>();
-        //ArrayList<String> arrayList1 = new ArrayList<>();
         ArrayList<String> strings = new ArrayList<>();
         if (itemNo == 4 || itemNo == 11) {
             if (itemNo == 4 && arrayList.get(4).matches("[&0-9\\s]+"))

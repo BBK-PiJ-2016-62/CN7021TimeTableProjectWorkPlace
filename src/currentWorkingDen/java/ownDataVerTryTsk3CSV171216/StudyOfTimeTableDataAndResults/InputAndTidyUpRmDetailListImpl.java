@@ -46,10 +46,8 @@ public class InputAndTidyUpRmDetailListImpl implements InputAndTidyUpRmDetailLis
                 findRoomSize.add(row.get(0));
                 findRoomSize.add(row.get(3));
                 roomSizeList.add(findRoomSize);
-                //System.out.println(row.get(0)+" "+row.get(3));
             }
         }
-        //firstList.forEach(s->roomSizeList.add(roomAndItsSize(s)));
         return roomSizeList;
     }
 

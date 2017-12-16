@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public interface CheckTutorialGroupSufficiency {
 
     /**
-     * group size is limited to 25 or the room's accommodation limit, whichever is the lower.
+     * group size is limited to 25 or the room's capacity limit, whichever is the lower.
      * @param firstList
      * @return
      */

@@ -68,8 +68,7 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                     count++;
                 }
                 if (as.get(0).trim().toLowerCase().contains("lecture")){
-                    /*int roomSize=0;
-                    boolean rmFound=false;*/
+
                     ArrayList<String> asList = new ArrayList<>(Arrays.asList(as.get(1).
                             split("/")));
                     Iterator<String> itr=asList.iterator();
@@ -129,7 +128,6 @@ public class CheckRoomSizeSufficiencyImpl implements CheckRoomSizeSufficiency {
                 System.out.println(line5);
                 roomSizeSufficiencyResult.add(line5);
                 ArrayList<ArrayList<Integer>> studentNumArray = new ArrayList<>();
-                //boolean foundRm = false;
                 abcde:
                 for (int i = 0; i < m.getTypeOfMeetingNRmNumList().size(); i++) {
                     studentNumArray.add(new ArrayList<Integer>());
