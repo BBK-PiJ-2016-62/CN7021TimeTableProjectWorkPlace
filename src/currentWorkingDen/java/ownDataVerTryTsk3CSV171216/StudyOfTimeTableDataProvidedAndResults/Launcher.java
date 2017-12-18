@@ -133,9 +133,6 @@ public class Launcher {
         String outPutTaskFileName = " ";//taskNum+"_"+ldt.format(dtf)+ "Result.txt";
         if (taskNum.trim().toLowerCase().equals("task4")) outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.txt";
         else outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.csv";
-        /*if (taskNum.trim().toLowerCase().equals("task1")||taskNum.trim().toLowerCase().equals("task2"))
-            outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.csv";
-        else outPutTaskFileName=taskNum+"_"+ldt.format(dtf)+ "Result.txt";*/
         ArrayList<String> tempStrings= new ArrayList<>();
         try {
             FileWriter writer = new FileWriter
